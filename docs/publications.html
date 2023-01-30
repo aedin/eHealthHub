@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>All-Island eHealth-Hub for Cancer - About eHealthHub for Cancer</title>
+<title>All-Island eHealth-Hub for Cancer - Publications</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -31,9 +31,12 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
 <link href="./eHealthHub_logo.png" rel="icon" type="image/png">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -58,20 +61,50 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Submit"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="styles.css">
-<meta property="og:title" content="All-Island eHealth-Hub for Cancer - About eHealthHub for Cancer">
-<meta property="og:description" content="The eHealthHub for Cancer is an all-island emerging hub of excellence funded by the Irish Higher Education Authority HEA Shared Island North-South Research Programme The eHealthHub for Cancer is…">
+<meta property="og:title" content="All-Island eHealth-Hub for Cancer - Publications">
+<meta property="og:description" content="Publications by eHealth-Hub Cancer Researchers in 2022">
 <meta property="og:site-name" content="All-Island eHealth-Hub for Cancer">
-<meta name="twitter:title" content="All-Island eHealth-Hub for Cancer - About eHealthHub for Cancer">
-<meta name="twitter:description" content="The eHealthHub for Cancer is an all-island emerging hub of excellence funded by the Irish Higher Education Authority HEA Shared Island North-South Research Programme The eHealthHub for Cancer is…">
+<meta name="twitter:title" content="All-Island eHealth-Hub for Cancer - Publications">
+<meta name="twitter:description" content="Publications by eHealth-Hub Cancer Researchers in 2022">
 <meta name="twitter:creator" content="@AedinCulhane">
 <meta name="twitter:site" content="@eHealthHub">
 <meta name="twitter:card" content="summary">
 </head>
 
-<body class="nav-sidebar docked nav-fixed fullcontent">
+<body class="nav-sidebar docked nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -149,7 +182,7 @@ ul.task-list li input[type="checkbox"] {
     </nav>
   <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
     <div class="container-fluid d-flex justify-content-between">
-      <h1 class="quarto-secondary-nav-title">About eHealthHub for Cancer</h1>
+      <h1 class="quarto-secondary-nav-title">Publications</h1>
       <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
         <i class="bi bi-chevron-right"></i>
       </button>
@@ -175,7 +208,7 @@ ul.task-list li input[type="checkbox"] {
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./about.html" class="sidebar-item-text sidebar-link active">About eHealthHub for Cancer</a>
+  <a href="./about.html" class="sidebar-item-text sidebar-link">About eHealthHub for Cancer</a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -262,49 +295,162 @@ ul.task-list li input[type="checkbox"] {
     </div>
 </nav>
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(0)</span></div></div></div>
 <!-- main -->
-<div class="quarto-about-solana column-body">
-  <div class="about-entity">
-    <div class="entity-contents">
-      <header id="title-block-header" class="quarto-title-block default">
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title d-none d-lg-block">About eHealthHub for Cancer</h1>
+<h1 class="title d-none d-lg-block">Publications</h1>
 </div>
+
+
+
 <div class="quarto-title-meta">
+
+    
+  
+    
   </div>
-</header> <div class="about-links">
-  <a href="mailto:ehealth@ul.ie" class="about-link">
-    <i class="bi bi-envelope"></i>
-     <span class="about-link-text">email us</span>
-  </a>
+  
+
+</header>
+
+<p>Publications by eHealth-Hub Cancer Researchers in 2022</p>
+<div class="cell">
+<div class="cell-output cell-output-stdout">
+<pre><code>[1] A. Banerjee, C. Sudlow, and M. Lawler. "Indirect effects of the
+pandemic: highlighting the need for data-driven policy and
+preparedness". Eng. In: _Journal of the Royal Society of Medicine_
+115.7 (Jul. 2022), pp. 249-251. ISSN: 1758-1095. DOI:
+10.1177/01410768221095245. PMID: 35537476.
+
+[2] M. Begum, G. Lewison, X. Wang, et al. "Global colorectal cancer
+research, 2007-2021: Outputs and funding". Eng. In: _International
+journal of cancer_ 152.3 (Feb. 2023), pp. 470-479. ISSN: 1097-0215.
+DOI: 10.1002/ijc.34279. PMID: 36082449.
+
+[3] G. Buyens, M. van Balken, K. Oliver, et al. "Cancer literacy -
+Informing patients and implementing shared decision making". Eng. In:
+_Journal of cancer policy_ 35 (Dec. 2022), p. 100375. ISSN: 2213-5383.
+DOI: 10.1016/j.jcpo.2022.100375. PMID: 36462750.
+
+[4] S. M. Corry, A. M. McCorry, T. R. Lannagan, et al. "Activation of
+innate-adaptive immune machinery by poly(I:C) exposes a therapeutic
+vulnerability to prevent relapse in stroma-rich colon cancer". Eng. In:
+_Gut_ 71.12 (Dec. 2022), pp. 2502-2517. ISSN: 1468-3288. DOI:
+10.1136/gutjnl-2021-326183. PMID: 35477539.
+
+[5] S. Creedican, C. M. Robinson, K. Mnich, et al. "Inhibition of IRE1α
+RNase activity sensitizes patient-derived acute myeloid leukaemia cells
+to proteasome inhibitors". Eng. In: _Journal of cellular and molecular
+medicine_ 26.16 (Aug. 2022), pp. 4629-4633. ISSN: 1582-4934. DOI:
+10.1111/jcmm.17479. PMID: 35822520.
+
+[6] S. Elizabeth, K. Aidan, O. B. David, et al. "Low CD49d expression
+in newly diagnosed chronic lymphocytic leukaemia may be associated with
+high-risk features and reduced treatment-free-intervals". Eng. In:
+_European journal of haematology_ 109.5 (Nov. 2022), pp. 441-446. ISSN:
+1600-0609. DOI: 10.1111/ejh.13824. PMID: 35776688.
+
+[7] N. C. Fisher, R. M. Byrne, H. Leslie, et al. "Biological
+Misinterpretation of Transcriptional Signatures in Tumor Samples Can
+Unknowingly Undermine Mechanistic Understanding and Faithful Alignment
+with Preclinical Data". Eng. In: _Clinical cancer research : an
+official journal of the American Association for Cancer Research_ 28.18
+(Sep. 2022), pp. 4056-4069. ISSN: 1557-3265. DOI:
+10.1158/1078-0432.CCR-22-1102. PMID: 35792866.
+
+[8] D. J. Flanagan, R. Amirkhah, D. F. Vincent, et al. "Epithelial TGFβ
+engages growth-factor signalling to circumvent apoptosis and drive
+intestinal tumourigenesis with aggressive features". Eng. In: _Nature
+communications_ 13.1 (Dec. 2022), p. 7551. ISSN: 2041-1723. DOI:
+10.1038/s41467-022-35134-3. PMID: 36477656.
+
+[9] G. Greene, R. Griffiths, J. Han, et al. "Impact of the SARS-CoV-2
+pandemic on female breast, colorectal and non-small&nbsp;cell lung cancer
+incidence, stage and healthcare pathway to diagnosis during 2020 in
+Wales, UK, using a national cancer clinical record system". Eng. In:
+_British journal of cancer_ 127.3 (Aug. 2022), pp. 558-568. ISSN:
+1532-1827. DOI: 10.1038/s41416-022-01830-6. PMID: 35501391.
+
+[10] R. H. Henderson, D. French, E. McFerran, et al. "Spend less to
+achieve more: Economic analysis of intermittent versus continuous
+cetuximab in KRAS wild-type patients with metastatic colorectal
+cancer". Eng. In: _Journal of cancer policy_ 33 (Sep. 2022), p. 100342.
+ISSN: 2213-5383. DOI: 10.1016/j.jcpo.2022.100342. PMID: 35718327.
+
+[11] G. Lambe, S. Doran, R. Clifford, et al. "Isolated CNS relapse of
+medullary aggressive high-grade B-cell lymphoma on 18F-FDG-PET/CT".
+Eng. In: _European journal of hybrid imaging_ 6.1 (May. 2022), p. 9.
+ISSN: 2510-3636. DOI: 10.1186/s41824-022-00130-9. PMID: 35501493.
+
+[12] M. Lawler and M. Crul. "Data must underpin our response to the
+covid-19 pandemic's disastrous impact on cancer". Eng. In: _BMJ
+(Clinical research ed.)_ 376 (Feb. 2022), p. o282. ISSN: 1756-1833.
+DOI: 10.1136/bmj.o282. PMID: 35115384.
+
+[13] M. Lawler, L. Davies, S. Oberst, et al. "European
+Groundshot-addressing Europe's cancer research challenges: a Lancet
+Oncology Commission". Eng. In: _The Lancet. Oncology_ 24.1 (Jan. 2023),
+pp. e11-e56. ISSN: 1474-5488. DOI: 10.1016/S1470-2045(22)00540-X. PMID:
+36400101.
+
+[14] M. Lawler and F. Meunier. "Don't make cancer survivors pay
+twice-the right for them to be "forgotten" should be law everywhere".
+Eng. In: _BMJ (Clinical research ed.)_ 378 (Sep. 2022), p. o2197. ISSN:
+1756-1833. DOI: 10.1136/bmj.o2197. PMID: 36130783.
+
+[15] E. Nolte, M. Morris, S. Landon, et al. "Exploring the link between
+cancer policies and cancer survival: a comparison of International
+Cancer Benchmarking Partnership countries". Eng. In: _The Lancet.
+Oncology_ 23.11 (Nov. 2022), pp. e502-e514. ISSN: 1474-5488. DOI:
+10.1016/S1470-2045(22)00450-8. PMID: 36328024.
+
+[16] G. P. Quinn, T. Sessler, B. Ahmaderaghi, et al. "classifieR a
+flexible interactive cloud-application for functional annotation of
+cancer transcriptomes". Eng. In: _BMC bioinformatics_ 23.1 (Mar. 2022),
+p. 114. ISSN: 1471-2105. DOI: 10.1186/s12859-022-04641-x. PMID:
+35361119.
+
+[17] P. Robbe, K. E. Ridout, D. V. Vavoulis, et al. "Whole-genome
+sequencing of chronic lymphocytic leukemia identifies subgroups with
+distinct biological and clinical features". Eng. In: _Nature genetics_
+54.11 (Nov. 2022), pp. 1675-1689. ISSN: 1546-1718. DOI:
+10.1038/s41588-022-01211-y. PMID: 36333502.
+
+[18] R. Sullivan, G. Lewison, J. Torode, et al. "Cancer research
+collaboration between the UK and the USA: reflections on the 2021 G20
+Summit announcement". Eng. In: _The Lancet. Oncology_ 23.4 (Apr. 2022),
+pp. 460-462. ISSN: 1474-5488. DOI: 10.1016/S1470-2045(22)00079-1. PMID:
+35358453.
+
+[19] H. Van Poppel, N. M. L. Battisti, M. Lawler, et al. "European
+Cancer Organisation's Inequalities Network: Putting Cancer Inequalities
+on the European Policy Map". Eng. In: _JCO global oncology_ 8 (Oct.
+2022), p. e2200233. ISSN: 2687-8941. DOI: 10.1200/GO.22.00233. PMID:
+36252165.
+
+[20] Y. Wang, A. Buck, M. Grimaud, et al. "Anti-CAIX BBζ CAR4/8 T&nbsp;cells
+exhibit superior efficacy in a ccRCC mouse model". Eng. In: _Molecular
+therapy oncolytics_ 24 (Mar. 2022), pp. 385-399. ISSN: 2372-7705. DOI:
+10.1016/j.omto.2021.12.019. PMID: 35118195.</code></pre>
 </div>
-      <div class="about-contents"><main class="content" id="quarto-document-content">
-<section id="about" class="level2">
-<h2 data-anchor-id="about">About</h2>
-<p>The eHealthHub for Cancer is an all-island emerging hub of excellence funded by the Irish Higher Education Authority <a href="https://hea.ie/">HEA</a> <a href="https://www.gov.ie/en/campaigns/c3417-shared-island/">Shared Island</a> <a href="https://hea.ie/2021/08/09/hea-launch-e40-million-north-south-research-programme-2021/">North-South Research Programme</a> The eHealthHub for Cancer is lead by UL and QUB and partners with clinical and academic researchers in UCD, RCSI, UG, UCC.</p>
-</section>
-<section id="motivation" class="level2">
-<h2 data-anchor-id="motivation">Motivation</h2>
-<p>Cancer is the leading cause of death on the island of Ireland. Half of all citizens will experience cancer at some stage in their lifetime. Annually, more than 40,000 and 10,000 people are diagnosed with cancer in Ireland (IRE) and Northern Ireland (NI) respectively. With an aging demographic, the population &gt;65 years is estimated to more than double in the next 25 years <a href="https://assets.gov.ie/9315/6f1592a09583421baa87de3a7e9cb619.pdf">National Cancer Strategy 2017-2026</a> <a href="https://www.northernireland.gov.uk/sites/default/files/consultations/health/doh-cancer-strategy-2021-2031.PDF">A Cancer Strategy for Northern Ireland 2021-2031</a></p>
-<p>Cancer is identified as a priority for increased cross-border collaboration, particularly with the reinvigoration of the <a href="https://www.cancer.gov/about-nci/organization/cgh/events/ireland-northern-ireland-nci-cancer-consortium-mou">Ireland-Northern Ireland-US National Cancer Institute Memorandum of Understanding</a> The <a href="https://assets.gov.ie/9315/6f1592a09583421baa87de3a7e9cb619.pdf">National Cancer Strategy (2017-2026)</a>identified an urgent need for frameworks that increase Findable, Accessible, Interoperable and Reusable (FAIR) sharing of health data and stated it was a major obstacle to measuring performance and evidence-based policy decision. QUB PI <a href="https://www.data-can.org.uk/about-us/management-group/professor-mark-lawler/">Prof Lawler, Scientific Director of DATA-CAN</a> the UK’s Health Data Research Hub for Cancer, together with the <a href="https://www.qub.ac.uk/research-centres/nicr/">Northern Ireland Cancer Registry</a> highlighted the lack of a connected IRE national health informatics system as a major obstacle to cross-border research on the impacts of COVID-19 on cancer [1].</p>
-<p>The <a href="https://www.ohdsi.org/data-standardization/the-common-data-model/">Observational Medical Outcomes Partnership (OMOP) Common Data Model (CDM)</a> enables the capture of information (e.g., encounters, patients, providers, diagnoses, drugs, measurements and procedures) in the same way across different institutions. This can assist organization overcome traditional challenges when comparing health data across systems. Traditionally healthcare organizations have stored a wealth of data, in a various formats for a myriad of different purposes without any coordination or standardization and healthcare system may use different names for a data field (such as systolic blood pressure or blood glucose level) making it difficult to compare data between systems. The purpose of a common data model (CDM) is to standardize the format and content of observational data so that standardized applications, tools and methods can be applied across different datasets. Use of a CDM integrates medical records across healthcare organizations so that these data resources can be queried to answer important questions quickly and efficiently.</p>
-<p>The Observational Medical Outcomes Partnership (OMOP) is a public-private collaboration chaired by the US FDA, who proposed a common data model (CDM) [2] for storing and harmonizing heterogeneous health data. <a href="https://www.ohdsi.org/data-standardization/the-common-data-model/">OMOP-CDM</a> is maintained by <a href="https://www.ohdsi.org/">OHDSI</a> The European Medicines Agency (EMA) has recommended OMOP-CDM as a gold standard for harmonization of records; The European Health Data and Evidence Network (EHDEN) aims to harmonize &gt;400 million diverse health records from 23 EU countries, using OMOP-CDM [3].</p>
-<p>An advantage of OMOP-CDM is deployment of a federated model and GDPR compliance. Data remain locally and each local health data provider can control access to their data. Only aggregated results of queries are exported from each local site (Figure 1), preserving patient privacy/security.</p>
-<p>OHDSI and EHDEN projects are making healthcare data FAIR at an unprecedented scale, creating new research and economic opportunities in eHealth. To date, &gt;810,000,000 patient records (approximately 11% of the global population) from 34 different countries have been mapped to OMOP-CDM, including records from All of Us, UK BioBank, eMERGE, the National COVID-19 Cohort Collaborative (N3C), and the national data network in Korea. Lead PI Culhane is a member of the OHDSI community, and has published high-impact publications with OHDSI [4–6], including the study of the safety profile of hydroxychloroquine in nearly 1 million patients, whose findings informed public health guidance from the EMA. Despite vast benefits to patients, design and monitoring of clinical trials, cross-border eHealth research, and the benefits of participation in international EU and Global research, there is a critical skill shortage in ehealth research on the island of Ireland. IRE is not a data partner in EHDEN and there are no IRE or NI SMEs that are certified by EHDEN.</p>
-<p>This proposal will establish a multidisciplinary all-Island framework for federated cancer eHealth research using OMOP-CDM, build skills and capacity for real-world data analysis, such that Ireland and NI can prosper in EU and global eHealth cancer research and improve patient quality-of-care. Furthermore, we will demonstrate harmonising all-island cancer data is beneficial and impactful to cancer research and cross-border collaboration. We will perform high-impact, cross-border studies on cancer and the impact of COVID-19 on cancer, that inform public policy.</p>
-<p>Contribution of eHealth-Hub to national, shared island and Horizon Europe goals: The potential impact and breadth of research engagement with the eHealth-Hub is evidenced by the number of leading hematologists and oncologists across the island, organizations including the Irish Society of Medical Oncology, the Irish Haematology Society, National Cancer Registries of IRE and NI, Cancer Trials Ireland, the Blood Cancer Network Ireland, the Lymphoma Forum of Ireland and the All-Island Cancer Research Institute have all indicated enthusiastic support of this proposal (Table 6).</p>
-<p>The eHealth-Hub will empower cross-border real-world health research that will inform evidence-based policy, allow EU/US and global research collaborations, develop next-generation clinical decision-making tools to reduce wait times, deliver individualized healthcare to improve cancer patient survival and enable real-time data access to support cross-border health and social care partnerships. It will also develop significant opportunities for economic development. Once the federated eHealth model is established, it can be adapted and expanded to future EHR systems in IRE or NI. eHealth is a key pillar in health care reform, prioritized in Programme for Government, Sláintecare, and the Project Ireland 2040 National Development Plan and the eHealth strategy for Ireland. The Organisation of European Cancer Institutes (OECI) have highlighted a need for systems to digitize and harmonize patient data. eHealth initiatives are integral to European Commission EU4Health (2021-2027), Europe’s Beating Cancer Plan and Horizon Europe Conquering Cancer: Mission Possible (2021-27). This proposal also addresses United Nations SDGs 3 (Health and well being).</p>
+</div>
 
 
-</section>
-</main></div>
-    </div>
-    <img src="contents/logo/eHealthHub_logo.png" class="about-image
-  round " style="height: 6em; width: 6em;">
-  </div>
+
+
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="list grid quarto-listing-cols-3">
+
 </div>
- <!-- /main -->
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -325,6 +471,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const clipboard = new window.ClipboardJS('.code-copy-button', {
     target: function(trigger) {
       return trigger.previousElementSibling;

@@ -1,0 +1,20 @@
+---
+title: "Publications"
+listing:
+  contents: presentations 
+  type: grid
+  grid-columns: 3
+  image-height: 200px
+  categories: true
+---
+
+Publications by eHealth-Hub Cancer Researchers in 2022
+
+```{r, echo=FALSE}
+library(RefManageR)
+authors = c("Mark Lawler", "Aedin Culhane", "Ruth Clifford")
+year="2022"
+my_query <- paste("{",paste(sapply(authors, paste0, "[AU] "), collapse ="OR "), "}","AND", year, "[PDAT]")
+x=ReadPubMed(my_query)
+print(x)
+```

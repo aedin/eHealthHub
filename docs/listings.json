@@ -10,10 +10,15 @@
   {
     "listing": "/news.html",
     "items": [
+      "/News/22_05_19_BrainStorm/index.html",
+      "/News/22-10-14_OHDSI/index.html",
       "/News/22_09_28_AICRI_Launch/index.html",
-      "/News/22_09_09_BCNI_talk/index.html",
-      "/News/22_05_19_BrainStorm/index.html"
+      "/News/22_09_09_BCNI_talk/index.html"
     ]
+  },
+  {
+    "listing": "/publications.html",
+    "items": []
   },
   {
     "listing": "/people.html",
