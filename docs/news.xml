@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>All-Island eHealth-Hub for Cancer</title>
+<link>https://aedin.github.io/eHealthHub/news.html</link>
+<atom:link href="https://aedin.github.io/eHealthHub/news.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.2.269</generator>
+<lastBuildDate>Tue, 27 Sep 2022 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>AICRI Launch</title>
+  <dc:creator>Aedin Culhane</dc:creator>
+  <link>https://aedin.github.io/eHealthHub/News/22_09_28_AICRI_Launch/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>On the 28th of September, the eHealthHub team presented at the All-Ireland Cancer Institute (AICRI) Showcase event which was held in collaboration with 15th International Symposium on Translational Research in Oncology, at the <strong>Herbert Park Hotel, Dublin</strong>. This was in-person meeting provided an opportunity for the eHealthHub to showcase our vision, achievements to date and roadmap future activities. The event was well attended and we have lots of positive feedback from our presentation.</p>
+<p>Link to the our <a href="../../contents/presentations/AICRI_Sep28_Culhane_template.pptx">slides</a> from that presentation</p>
+<p>Read more about the launch on the <a href="https://www.aicri.org/news/aicri-showcase-vision-and-progress-event">AICRI website</a> and watch a video of the Taoiseach’s (Irish Prime Minister’s) address to AICRI</p>
+
+
+
+ ]]></description>
+  <category>AICRI</category>
+  <guid>https://aedin.github.io/eHealthHub/News/22_09_28_AICRI_Launch/index.html</guid>
+  <pubDate>Tue, 27 Sep 2022 23:00:00 GMT</pubDate>
+  <media:content url="https://aedin.github.io/eHealthHub/contents/photos/img/AICRI_launch.jpeg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>BCNI Talk</title>
+  <dc:creator>Aedin Culhane</dc:creator>
+  <link>https://aedin.github.io/eHealthHub/News/22_09_09_BCNI_talk/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>On the 9th of September, the eHealthHub lead Prof Aedin Culhane presented at the <a href="https://nuigalwaybcni.clr.events/event/132483:blood-cancer-network-bcni-symposium-2022">Irish Blood Cancer Network Symposium</a> which was held in person in Galway. The event was well attended and we have lots of positive feedback from our presentation.</p>
+<p>Link to the our <a href="./contents/BNCI_Sep9_Culhane_template.pptx">slides</a> from that presentation</p>
+<p>Read more about the Irish Blood Cancer Network Symposium(on the <a href="Irish Blood Cancer Network Symposium">BCNI website</a>.</p>
+
+
+
+ ]]></description>
+  <category>Conference</category>
+  <guid>https://aedin.github.io/eHealthHub/News/22_09_09_BCNI_talk/index.html</guid>
+  <pubDate>Thu, 08 Sep 2022 23:00:00 GMT</pubDate>
+  <media:content url="https://aedin.github.io/eHealthHub/contents/photos/img/BCNI_meeting.png" medium="image" type="image/png" height="84" width="144"/>
+</item>
+<item>
+  <title>RTE Brainstorm Article</title>
+  <dc:creator>Aedin Culhane</dc:creator>
+  <link>https://aedin.github.io/eHealthHub/News/22_05_19_BrainStorm/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>In May 2022, the eHealthHub lead Prof Aedin Culhane and Prof Mark Lawler spoke with <a href="https://www.rte.ie/brainstorm/2022/0519/1299916-cancer-treatment-diagnosis-covid-delays-data-ireland-europe/">RTE Brainstorm</a> about the pressing need for harmonization of clinical cancer health data, to enable health research to tackle COVID-19 and Cancer</p>
+<p>Read more about on the <a href="https://www.rte.ie/brainstorm/2022/0519/1299916-cancer-treatment-diagnosis-covid-delays-data-ireland-europe/">RTE</a></p>
+
+
+
+ ]]></description>
+  <category>RTE</category>
+  <category>News Article</category>
+  <guid>https://aedin.github.io/eHealthHub/News/22_05_19_BrainStorm/index.html</guid>
+  <pubDate>Wed, 18 May 2022 23:00:00 GMT</pubDate>
+  <media:content url="https://aedin.github.io/eHealthHub/contents/photos/img/BrainStorm.png" medium="image" type="image/png" height="125" width="144"/>
+</item>
+</channel>
+</rss>
