@@ -1,0 +1,20 @@
+---
+title: "BCNI Talk"
+description: 
+  Presentation of the eHealth Hub at the BCNI Meeting
+image: ../../contents/photos/img/BCNI_meeting.png
+card_style: "summary_large_image"
+params:
+  tag: "BCNI_Talk"
+  date: "2022-09-09"
+author: "Aedin Culhane"
+date: "2022-09-09"
+categories:
+  - Conference
+---
+
+On the 9th of September, the eHealthHub lead Prof Aedin Culhane presented at the [Irish Blood Cancer Network Symposium](https://nuigalwaybcni.clr.events/event/132483:blood-cancer-network-bcni-symposium-2022) which was held in person in Galway. The event was well attended and we have lots of positive feedback from our presentation.
+
+Link to the our [slides](./contents/BNCI_Sep9_Culhane_template.pptx) from that presentation
+
+Read more about the Irish Blood Cancer Network Symposium(on the [BCNI website](Irish%20Blood%20Cancer%20Network%20Symposium).

@@ -1,0 +1,45 @@
+---
+title: Prof Mark Lawler
+about:
+  template: solana
+  image-width: 6em
+  image-shape: round
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/QUBCancerProf
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/mark-lawler-b8387324/
+    - icon: house-door
+      text: Homepage
+      href: https://www.data-can.org.uk/about-us/management-group/professor-mark-lawler/
+    - icon: envelope
+      text: email
+      href: mailto
+      
+image: ../../contents/photos/people/MarkLawler.jpg
+card_style: "summary_large_image"
+categories:
+  - Project Leader
+  - Belfast
+  - QUB
+description: 
+  Professor, Queens University Belfast
+---
+
+## Prof Mark Lawler
+
+Professor Lawler is an internationally renowned scientist with over 30 years experience in cancer research, who is passionate about translating his research for the benefit of patients and society.
+
+He has received numerous awards including the prestigious 2018 European Health Award and he is frequently invited to speak at top-tier international conferences.
+
+He was architect of the [**European Cancer Patient's Bill of Rights**](https://ecpc.org/news-events/european-bill-of-cancer-patients-rights/), which he launched with patients and health professionals in the European Parliament on World Cancer Day 2014. The Bill of Rights, translated into 17 European languages and adopted in 25 European countries, is a beacon of hope for cancer patients Europe-wide, leading to development of the 70:35 Vision - 70% average survival for cancer patients by 2035. This Vision has been adopted by the European CanCer Organisation, the largest multidisciplinary cancer organisation in Europe, and is influencing health policy in many European countries.
+
+His research in colorectal cancer (CRC) has increased our understanding of this common disease. His leadership of [**Bowel Cancer UK's Critical Research Gaps in Colorectal Cancer Initiative**](https://www.huffingtonpost.co.uk/entry/over-300000-people-will-needlessly-die-from-bowel-cancer-by-2035-because-of-research-gaps-charity-warns_uk_5a2e72fce4b069ec48aece15)will influence CRC research activity/policy over the next decade.
+
+Professor Lawler is Associate Director of Health Data Research Wales-Northern Ireland and Scientific Director of [**DATA-CAN, the UK Health Data Research Hub for Cancer**](https://www.data-can.org.uk/). His leadership in heath data research, with a particular emphasis on cancer has been world leading with key publications in the premier scientific and medical journals.
+
+His recent work on Coronavirus and cancer, highlighting how the current COVID-19 pandemic may lead to a future cancer epidemic, has received international recognition, with over 300 media stories and publications in key international scientific journals
+
+Professor Lawler is also a passionate advocate for the development of outreach activities, fostering increased public understanding of science and medicine.

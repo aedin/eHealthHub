@@ -1,0 +1,119 @@
+project:
+  type: website
+  output-dir: _site
+  
+website:
+  title: "All-Island eHealth-Hub for Cancer"
+  search: 
+    location: navbar
+    type: overlay
+    
+  navbar:
+    background: primary
+    logo: contents/logo/eHealthHub_logo.png
+    search: true
+    left:
+      - icon: twitter
+        href: https://twitter.com
+        aria-label: Twitter
+      - icon: github
+        href: https://github.com/
+        aria-label: GitHub
+      - icon: facebook
+        href: https://facebook.com/
+        aria-label: Facebook
+      - icon: linkedin
+        href: https://linkedin.com/
+        aria-label: LinkedIn
+      - icon: youtube
+        href: https://youtube.com/
+        aria-label: YouTube
+      - icon: microsoft-teams
+        href: https://teams.microsoft.com/
+        aria-label: Microsoft-Teams
+      - icon: envelope
+        text: email us
+        href: mailto:ehealth@ul.ie
+        
+    right:
+      - text: "Home"
+        file: index.qmd
+      - text: "About"
+        file: about.qmd 
+      - text: "People"
+        file: people.qmd
+      - text: "Projects"
+        file: projects.qmd
+      - text: "News"
+        file: news.qmd
+      - text: "Outputs"
+        menu:
+         - talks.qmd
+         - publications.qmd 
+
+  sidebar:
+    contents:
+      - about.qmd
+      - contributing.qmd
+      - section: News
+        contents: News
+      - section: People
+        contents: People
+        
+    style: "docked"
+    tools:
+      - icon: twitter
+        href: https://twitter.com
+      - icon: github
+        menu:
+          - text: Report a Bug
+            url:  https://github.com/aedin/issues
+            
+  page-footer:
+    left: Supported by [![](contents/logo/NSRP_Logo.png){fig-alt="HEA" width=100px}](https://www.hea.ie)
+    
+    center:
+      - text: "About"
+        href: about.qmd
+      - text: "People"
+        href: people.qmd
+      - text: "Projects"
+        href: projects.qmd
+      - text: "News"
+        href: news.qmd
+      - icon: twitter
+        href: https://twitter.com/aedinculhane
+        aria-label: eHealthHub For Cancer Twitter
+      - icon: github
+        href: https://github.com/aedin
+        aria-label: eHealthHub For Cancer GitHub
+    right: Lead Organizations
+     [![](contents/logo/LDCRC_Logo_fixed.jpg){fig-alt="LDCRC" width=150px}]
+      [![](contents/logo/QUB_Logo.jpg){fig-alt="QUB" width=75px}]
+      
+        
+
+    
+repo-url: https://github.com/aedin
+repo-actions: [edit, issue]
+  
+favicon: eHealthHub_logo.png
+site-url: https://CancereHealthHub.com
+  
+twitter-card:
+  creator: "@AedinCulhane"
+  site: "@eHealthHub"
+
+open-graph: true
+
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true
+    include-after-body: footer.html
+
+
+editor: visual
+

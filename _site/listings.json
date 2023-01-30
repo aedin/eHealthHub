@@ -1,0 +1,26 @@
+[
+  {
+    "listing": "/talks.html",
+    "items": []
+  },
+  {
+    "listing": "/events.html",
+    "items": []
+  },
+  {
+    "listing": "/news.html",
+    "items": [
+      "/News/22_09_28_AICRI_Launch/index.html",
+      "/News/22_09_09_BCNI_talk/index.html",
+      "/News/22_05_19_BrainStorm/index.html"
+    ]
+  },
+  {
+    "listing": "/people.html",
+    "items": [
+      "/People/AedinCulhane/index.html",
+      "/People/MarkLawlor/index.html",
+      "/People/RuthClifford/index.html"
+    ]
+  }
+]

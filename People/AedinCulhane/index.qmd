@@ -1,0 +1,35 @@
+---
+title: Prof Aedin Culhane
+about:
+  template: solana
+  image-width: 10em
+  image-shape: round
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com
+    - icon: github
+      text: Github
+      href: https://github.com
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/aedinculhane/  
+    - icon: house-door
+      text: Homepage
+      href: https://www.linkedin.com/in/aedinculhane/  
+    - icon: envelope
+      text: email
+      href: mailto:aedindotculhane@ul.ie
+description: 
+  Professor, University of Limerick
+image: ../../contents/photos/people/aedinculhane.png
+card_style: "summary_large_image"
+categories:
+  - Project Leader
+  - Limerick
+  - LDCRC
+---
+
+## Prof Aedin Culhane
+
+Aedín Culhane is a Professor of Biomedical Sciences (Cancer Genomics) in the UL School of Medicine. She is a computational oncologist with expertise in multi-omics data integration, statistical genomics, clinical bioinformatics and genomics in oncology. She has over 20 years' experience in cancer genomics, of which over 15 years were in the [Dana-Farber Cancer Institute](https://www.dana-farber.org/research/departments-centers-and-labs/departments-and-centers/department-of-data-science/) and [Harvard TH Chan School of Public Health in Boston, USA](https://www.hsph.harvard.edu/biostatistics/). Her recent research focuses on algorithm development and integrative data of single cell molecular data in cancer to identify molecules that regulate and can be targeted during tumour development, progression, drug response and resistance. She is a member of the Human Cell Atlas (https://www.humancellatlas.org ) project. She is a leader in the Bioconductor ([www.bioconductor.org](http://www.bioconductor.org/)) community, a global open source, open development software in R for genomics and an advocate for open source science.

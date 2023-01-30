@@ -1,0 +1,10 @@
+---
+title: "Events"
+listing:
+  contents: Events
+  sort: "date desc"
+  type: grid
+  grid-columns: 3
+  image-height: 250px
+  categories: true
+---

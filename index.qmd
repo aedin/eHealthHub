@@ -1,0 +1,20 @@
+---
+title: The eHealth-Hub for Cancer
+about:
+  template: solana
+  image: contents/logo/eHealthHub_logo.png
+  image-width: 12em
+  image-shape: round
+---
+
+The all-island eHealth Hub for Cancer is an all-island partnership on the island of Ireland that is building software and data platforms using best practice open science international health data standards to unlock and share health data, to grow clinical cancer research and improve cancer care.
+
+![](contents/presentations/select_images/data_integration.jpeg){fig-alt="health data eHealth Hub"}
+
+<hr>
+
+# Funding Sources
+
+The eHealth-Hub for Cancer is an emerging hub of excellence funded under the Higher Education Authority Shared Island North-South Program.
+
+![HEA Shared island funding](contents/logo/NSRP_Logo.png){width="402"}

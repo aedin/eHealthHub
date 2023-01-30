@@ -1,0 +1,13 @@
+---
+title: "People"
+listing:
+  contents: People
+  type: grid
+  grid-columns: 3
+  image-height: 200px
+  categories: true
+  
+page-layout: full
+---
+
+## 
