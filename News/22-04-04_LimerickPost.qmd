@@ -1,0 +1,18 @@
+---
+title: "LimerickPost"
+description: Limerick and Belfast researchers tackle ‘future cancer epidemic’ from the Limerick Post  
+ 
+image: ../../contents/photos/img/2022_Apr_LimerickPost.png
+
+card_style: "summary_large_image"
+params:
+  tag: "Limerick Post"
+  date: "2022-04-04"
+author: "Aedin Culhane"
+date: "2022-04-04"
+categories:
+  - News Article
+  - Limerick
+---
+
+Article that appears in the [Limerick Post 4th April 2022](https://www.limerickpost.ie/2022/04/04/limerick-and-belfast-researchers-tackle-future-cancer-epidemic/), announcing receipt of funding for all-island eHealth research in cancer.

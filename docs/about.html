@@ -201,22 +201,37 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth2 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./News/22_09_28_AICRI_Launch/index.html" class="sidebar-item-text sidebar-link">AICRI Launch</a>
+  <a href="./News/22_09_28_AICRI_Launch.html" class="sidebar-item-text sidebar-link">AICRI Launch</a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./News/22_09_09_BCNI_talk/index.html" class="sidebar-item-text sidebar-link">BCNI Talk</a>
+  <a href="./News/22_09_09_BCNI_talk.html" class="sidebar-item-text sidebar-link">BCNI Talk</a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./News/22_05_19_BrainStorm/index.html" class="sidebar-item-text sidebar-link">eHealth-Hub at the OHDSI 2022 meeting</a>
+  <a href="./News/22-10-14_OHDSI.html" class="sidebar-item-text sidebar-link">eHealth-Hub at the OHDSI 2022 meeting</a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./News/22-10-14_OHDSI/index.html" class="sidebar-item-text sidebar-link">eHealth-Hub at the OHDSI 2022 meeting</a>
+  <a href="./News/template.html" class="sidebar-item-text sidebar-link">HRB</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./News/22-11-30_HRB.html" class="sidebar-item-text sidebar-link">HRB</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./News/22-04-04_LimerickPost.html" class="sidebar-item-text sidebar-link">LimerickPost</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./News/22_05_19_BrainStorm.html" class="sidebar-item-text sidebar-link">RTE Brainstorm Article</a>
   </div>
 </li>
       </ul>
@@ -288,13 +303,36 @@ ul.task-list li input[type="checkbox"] {
 <h2 data-anchor-id="motivation">Motivation</h2>
 <p>Cancer is the leading cause of death on the island of Ireland. Half of all citizens will experience cancer at some stage in their lifetime. Annually, more than 40,000 and 10,000 people are diagnosed with cancer in Ireland (IRE) and Northern Ireland (NI) respectively. With an aging demographic, the population &gt;65 years is estimated to more than double in the next 25 years <a href="https://assets.gov.ie/9315/6f1592a09583421baa87de3a7e9cb619.pdf">National Cancer Strategy 2017-2026</a> <a href="https://www.northernireland.gov.uk/sites/default/files/consultations/health/doh-cancer-strategy-2021-2031.PDF">A Cancer Strategy for Northern Ireland 2021-2031</a></p>
 <p>Cancer is identified as a priority for increased cross-border collaboration, particularly with the reinvigoration of the <a href="https://www.cancer.gov/about-nci/organization/cgh/events/ireland-northern-ireland-nci-cancer-consortium-mou">Ireland-Northern Ireland-US National Cancer Institute Memorandum of Understanding</a> The <a href="https://assets.gov.ie/9315/6f1592a09583421baa87de3a7e9cb619.pdf">National Cancer Strategy (2017-2026)</a>identified an urgent need for frameworks that increase Findable, Accessible, Interoperable and Reusable (FAIR) sharing of health data and stated it was a major obstacle to measuring performance and evidence-based policy decision. QUB PI <a href="https://www.data-can.org.uk/about-us/management-group/professor-mark-lawler/">Prof Lawler, Scientific Director of DATA-CAN</a> the UK’s Health Data Research Hub for Cancer, together with the <a href="https://www.qub.ac.uk/research-centres/nicr/">Northern Ireland Cancer Registry</a> highlighted the lack of a connected IRE national health informatics system as a major obstacle to cross-border research on the impacts of COVID-19 on cancer [1].</p>
+</section>
+<section id="interoperability-in-health-care-data" class="level2">
+<h2 data-anchor-id="interoperability-in-health-care-data">Interoperability in Health Care Data</h2>
 <p>The <a href="https://www.ohdsi.org/data-standardization/the-common-data-model/">Observational Medical Outcomes Partnership (OMOP) Common Data Model (CDM)</a> enables the capture of information (e.g., encounters, patients, providers, diagnoses, drugs, measurements and procedures) in the same way across different institutions. This can assist organization overcome traditional challenges when comparing health data across systems. Traditionally healthcare organizations have stored a wealth of data, in a various formats for a myriad of different purposes without any coordination or standardization and healthcare system may use different names for a data field (such as systolic blood pressure or blood glucose level) making it difficult to compare data between systems. The purpose of a common data model (CDM) is to standardize the format and content of observational data so that standardized applications, tools and methods can be applied across different datasets. Use of a CDM integrates medical records across healthcare organizations so that these data resources can be queried to answer important questions quickly and efficiently.</p>
 <p>The Observational Medical Outcomes Partnership (OMOP) is a public-private collaboration chaired by the US FDA, who proposed a common data model (CDM) [2] for storing and harmonizing heterogeneous health data. <a href="https://www.ohdsi.org/data-standardization/the-common-data-model/">OMOP-CDM</a> is maintained by <a href="https://www.ohdsi.org/">OHDSI</a> The European Medicines Agency (EMA) has recommended OMOP-CDM as a gold standard for harmonization of records; The European Health Data and Evidence Network (EHDEN) aims to harmonize &gt;400 million diverse health records from 23 EU countries, using OMOP-CDM [3].</p>
 <p>An advantage of OMOP-CDM is deployment of a federated model and GDPR compliance. Data remain locally and each local health data provider can control access to their data. Only aggregated results of queries are exported from each local site (Figure 1), preserving patient privacy/security.</p>
 <p>OHDSI and EHDEN projects are making healthcare data FAIR at an unprecedented scale, creating new research and economic opportunities in eHealth. To date, &gt;810,000,000 patient records (approximately 11% of the global population) from 34 different countries have been mapped to OMOP-CDM, including records from All of Us, UK BioBank, eMERGE, the National COVID-19 Cohort Collaborative (N3C), and the national data network in Korea. Lead PI Culhane is a member of the OHDSI community, and has published high-impact publications with OHDSI [4–6], including the study of the safety profile of hydroxychloroquine in nearly 1 million patients, whose findings informed public health guidance from the EMA. Despite vast benefits to patients, design and monitoring of clinical trials, cross-border eHealth research, and the benefits of participation in international EU and Global research, there is a critical skill shortage in ehealth research on the island of Ireland. IRE is not a data partner in EHDEN and there are no IRE or NI SMEs that are certified by EHDEN.</p>
-<p>This proposal will establish a multidisciplinary all-Island framework for federated cancer eHealth research using OMOP-CDM, build skills and capacity for real-world data analysis, such that Ireland and NI can prosper in EU and global eHealth cancer research and improve patient quality-of-care. Furthermore, we will demonstrate harmonising all-island cancer data is beneficial and impactful to cancer research and cross-border collaboration. We will perform high-impact, cross-border studies on cancer and the impact of COVID-19 on cancer, that inform public policy.</p>
-<p>Contribution of eHealth-Hub to national, shared island and Horizon Europe goals: The potential impact and breadth of research engagement with the eHealth-Hub is evidenced by the number of leading hematologists and oncologists across the island, organizations including the Irish Society of Medical Oncology, the Irish Haematology Society, National Cancer Registries of IRE and NI, Cancer Trials Ireland, the Blood Cancer Network Ireland, the Lymphoma Forum of Ireland and the All-Island Cancer Research Institute have all indicated enthusiastic support of this proposal (Table 6).</p>
-<p>The eHealth-Hub will empower cross-border real-world health research that will inform evidence-based policy, allow EU/US and global research collaborations, develop next-generation clinical decision-making tools to reduce wait times, deliver individualized healthcare to improve cancer patient survival and enable real-time data access to support cross-border health and social care partnerships. It will also develop significant opportunities for economic development. Once the federated eHealth model is established, it can be adapted and expanded to future EHR systems in IRE or NI. eHealth is a key pillar in health care reform, prioritized in Programme for Government, Sláintecare, and the Project Ireland 2040 National Development Plan and the eHealth strategy for Ireland. The Organisation of European Cancer Institutes (OECI) have highlighted a need for systems to digitize and harmonize patient data. eHealth initiatives are integral to European Commission EU4Health (2021-2027), Europe’s Beating Cancer Plan and Horizon Europe Conquering Cancer: Mission Possible (2021-27). This proposal also addresses United Nations SDGs 3 (Health and well being).</p>
+</section>
+<section id="the-ehealth-hub-for-cancer" class="level2">
+<h2 data-anchor-id="the-ehealth-hub-for-cancer">The eHealth-Hub for Cancer</h2>
+<p>This proposal will establish a multidisciplinary all-Island framework for federated cancer eHealth research using OMOP-CDM, build skills and capacity for real-world data analysis, such that Ireland and NI can prosper in EU and global eHealth cancer research and improve patient quality-of-care. Furthermore, we will demonstrate harmonising all-island cancer data is beneficial and impactful to cancer research and cross-border collaboration. It will enable research on cross-border studies on cancer and the impact of COVID-19 on cancer, that inform public policy.</p>
+<p><img src="contents/photos/img/eHealth_hub/Slide2.jpeg" class="img-fluid"></p>
+</section>
+<section id="contribution-of-ehealth-hub-to-national-shared-island-and-eu-goals" class="level2">
+<h2 data-anchor-id="contribution-of-ehealth-hub-to-national-shared-island-and-eu-goals">Contribution of eHealth-Hub to national, shared island and EU goals</h2>
+<p>The potential impact and breadth of all-island real world evidence research is evidenced by the number of leading hematologists and oncologists across the island, organizations including the Irish Society of Medical Oncology, the Irish Haematology Society, National Cancer Registries of IRE and NI, Cancer Trials Ireland, the Blood Cancer Network Ireland, the Lymphoma Forum of Ireland and the All-Island Cancer Research Institute have all indicated enthusiastic support of this proposal in our application.</p>
+<p>Empowering cross-border real-world health research has the potential to</p>
+<ul>
+<li><p>inform evidence-based policy</p></li>
+<li><p>enable increased EU, US and global research collaborations</p></li>
+<li><p>support clinical trials design and research</p></li>
+<li><p>provide capability to develop next-generation clinical decision-making tools to reduce wait times</p></li>
+<li><p>deliver research that empowers individualized healthcare to improve cancer patient survival</p></li>
+<li><p>enable real-time data access to support cross-border health and social care partnership data</p></li>
+<li><p>it offers significant opportunities for economic development.</p></li>
+</ul>
+</section>
+<section id="ehealth" class="level2">
+<h2 data-anchor-id="ehealth">eHealth</h2>
+<p>eHealth is a key pillar in health care reform, prioritized in Programme for Government, Sláintecare, and the Project Ireland 2040 National Development Plan and the eHealth strategy for Ireland. The Organisation of European Cancer Institutes (OECI) have highlighted a need for systems to digitize and harmonize patient data. eHealth initiatives are integral to European Commission EU4Health (2021-2027), Europe’s Beating Cancer Plan and Horizon Europe Conquering Cancer: Mission Possible (2021-27). This proposal also addresses United Nations SDGs 3 (Health and well being).</p>
 
 
 </section>

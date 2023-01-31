@@ -1,0 +1,21 @@
+---
+title: "AICRI Launch"
+description:  The eHealthHub team presented at the All-Ireland Cancer Institute (AICRI) Showcase event which was held in collaboration with 15th International Symposium on Translational Research in Oncology, at the Herbert Park Hotel, Dublin.
+
+image: ../../contents/photos/img/AICRI_launch.jpeg
+card_style: "summary_large_image"
+params:
+  tag: "AICRI_launch"
+  date: "2022-09-28"
+author: "Aedin Culhane"
+date: "2022-09-28"
+categories:
+  - AICRI
+  - Dublin
+---
+
+On the 28th of September, the eHealthHub team presented at the All-Ireland Cancer Institute (AICRI) Showcase event which was held in collaboration with 15th International Symposium on Translational Research in Oncology, at the **Herbert Park Hotel, Dublin**. This was in-person meeting provided an opportunity for the eHealthHub to showcase our vision, achievements to date and roadmap future activities. The event was well attended and we have lots of positive feedback from our presentation.
+
+Link to the our [slides](../contents/presentations/22_09_28_AICRI_launch.pdf) from that presentation
+
+Read more about the launch on the [AICRI website](https://www.aicri.org/news/aicri-showcase-vision-and-progress-event) and watch a video of the Taoiseach's (Irish Prime Minister's) address to AICRI

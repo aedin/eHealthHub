@@ -7,14 +7,33 @@ listing:
   image-height: 200px
   categories: true
 ---
-
-Publications by eHealth-Hub Cancer Researchers in 2022
+### Publications by eHealth-Hub Cancer Researchers in 2023
+```{r, echo=FALSE}
+authors = c("Mark Lawler", "Aedin Culhane", "Ruth Clifford")
+```
 
 ```{r, echo=FALSE}
 library(RefManageR)
-authors = c("Mark Lawler", "Aedin Culhane", "Ruth Clifford")
-year="2022"
+year="2023"
 my_query <- paste("{",paste(sapply(authors, paste0, "[AU] "), collapse ="OR "), "}","AND", year, "[PDAT]")
-x=ReadPubMed(my_query)
-print(x)
+mybib23=ReadPubMed(my_query)
+
+print(mybib23)
 ```
+
+### Publications by eHealth-Hub Cancer Researchers in 2022
+
+```{r, echo=FALSE}
+library(RefManageR)
+year="2022"
+outfile="2022.bib"
+my_query <- paste("{",paste(sapply(authors, paste0, "[AU] "), collapse ="OR "), "}","AND", year, "[PDAT]")
+if (!file.exists(outfile)){
+  mybib22=ReadPubMed(my_query)
+  WriteBib(mybib22,biblatex = TRUE,file = outfile,verbose = FALSE)} else{
+    mybib22<-ReadBib(outfile)
+  }
+print(mybib22)
+```
+
+

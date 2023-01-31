@@ -64,20 +64,20 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    const listingTargetEl = window.document.querySelector('#listing-News .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-title","listing-date","listing-description","listing-categories","listing-tag"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+    window['quarto-listings']['listing-News'] = new List('listing-News', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -232,22 +232,37 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth2 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./News/22_09_28_AICRI_Launch/index.html" class="sidebar-item-text sidebar-link">AICRI Launch</a>
+  <a href="./News/22_09_28_AICRI_Launch.html" class="sidebar-item-text sidebar-link">AICRI Launch</a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./News/22_09_09_BCNI_talk/index.html" class="sidebar-item-text sidebar-link">BCNI Talk</a>
+  <a href="./News/22_09_09_BCNI_talk.html" class="sidebar-item-text sidebar-link">BCNI Talk</a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./News/22_05_19_BrainStorm/index.html" class="sidebar-item-text sidebar-link">eHealth-Hub at the OHDSI 2022 meeting</a>
+  <a href="./News/22-10-14_OHDSI.html" class="sidebar-item-text sidebar-link">eHealth-Hub at the OHDSI 2022 meeting</a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./News/22-10-14_OHDSI/index.html" class="sidebar-item-text sidebar-link">eHealth-Hub at the OHDSI 2022 meeting</a>
+  <a href="./News/template.html" class="sidebar-item-text sidebar-link">HRB</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./News/22-11-30_HRB.html" class="sidebar-item-text sidebar-link">HRB</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./News/22-04-04_LimerickPost.html" class="sidebar-item-text sidebar-link">LimerickPost</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./News/22_05_19_BrainStorm.html" class="sidebar-item-text sidebar-link">RTE Brainstorm Article</a>
   </div>
 </li>
       </ul>
@@ -302,7 +317,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#section" id="toc-section" class="nav-link" data-scroll-target="#section"></a></li>
   </ul>
 </nav>
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(4)</span></div><div class="category" data-category="AICRI">AICRI <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Blood Cancer">Blood Cancer <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Conference">Conference <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Dublin">Dublin <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Galway">Galway <span class="quarto-category-count">(1)</span></div><div class="category" data-category="News Article">News Article <span class="quarto-category-count">(2)</span></div><div class="category" data-category="RTE">RTE <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Talk">Talk <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(6)</span></div><div class="category" data-category="AICRI">AICRI <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Blood Cancer">Blood Cancer <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Conference">Conference <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Dublin">Dublin <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Galway">Galway <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Limerick">Limerick <span class="quarto-category-count">(1)</span></div><div class="category" data-category="News Article">News Article <span class="quarto-category-count">(2)</span></div><div class="category" data-category="OHDSI">OHDSI <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RTE">RTE <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Talk">Talk <span class="quarto-category-count">(1)</span></div><div class="category" data-category="USA">USA <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Video">Video <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content column-body" id="quarto-document-content">
 
@@ -337,10 +352,68 @@ ul.task-list li input[type="checkbox"] {
 
 </section>
 
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="quarto-listing quarto-listing-container-grid" id="listing-News">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+     <select id="listing-News-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-News'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+       <option value="" disabled="" selected="" hidden="">Order By</option>
+       <option value="index" data-direction="asc">Default</option>
+         <option value="listing-title" data-direction="asc">
+          Title
+        </option>
+         <option value="listing-date-sort" data-direction="asc">
+          Date - Oldest
+        </option>
+         <option value="listing-date-sort" data-direction="desc">
+          Date - Newest
+        </option>
+     </select>
+  </div>
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
+</div>
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="RTE,News Article" data-listing-date-sort="1665874800000" data-listing-file-modified-sort="1675117626993" data-listing-reading-time-sort="0.155">
-<a href="./News/22_05_19_BrainStorm/index.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="0" data-categories="Conference,Dublin,Video" data-listing-date-sort="1669766400000" data-listing-file-modified-sort="1675128460031" data-listing-reading-time-sort="0.295">
+<a href="./News/22-11-30_HRB.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./contents/photos/img/2022_HRB_Conference.png" class="thumbnail-image card-img" style="height: 250px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+HRB
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Conference'); return false;">
+Conference
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Dublin'); return false;">
+Dublin
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Video'); return false;">
+Video
+</div>
+</div>
+<div class="card-text listing-description">
+Prof Culhane invited to chair and participate in panel discussion at the National HRB Conference “Personalised Medicine in Ireland”
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Aedin Culhane
+</div>
+<div class="listing-date">
+Nov 30, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="USA,Conference,OHDSI" data-listing-date-sort="1665874800000" data-listing-file-modified-sort="1675129372374" data-listing-reading-time-sort="0.155">
+<a href="./News/22-10-14_OHDSI.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img src="./contents/photos/img/2022_OHDSI_meeting_WashingtonDC.jpg" class="thumbnail-image card-img" style="height: 250px;">
@@ -350,11 +423,14 @@ ul.task-list li input[type="checkbox"] {
 eHealth-Hub at the OHDSI 2022 meeting
 </h5>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('RTE'); return false;">
-RTE
+<div class="listing-category" onclick="window.quartoListingCategory('USA'); return false;">
+USA
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('News Article'); return false;">
-News Article
+<div class="listing-category" onclick="window.quartoListingCategory('Conference'); return false;">
+Conference
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('OHDSI'); return false;">
+OHDSI
 </div>
 </div>
 <div class="card-text listing-description">
@@ -372,41 +448,8 @@ Oct 16, 2022
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="RTE,News Article" data-listing-date-sort="1665874800000" data-listing-file-modified-sort="1675117911928" data-listing-reading-time-sort="0.155">
-<a href="./News/22-10-14_OHDSI/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./contents/photos/img/2022_OHDSI_meeting_WashingtonDC.jpg" class="thumbnail-image card-img" style="height: 250px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-eHealth-Hub at the OHDSI 2022 meeting
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('RTE'); return false;">
-RTE
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('News Article'); return false;">
-News Article
-</div>
-</div>
-<div class="card-text listing-description">
-Prof Aedin Culhane attended the OHDSI 2022 conference in Washington DC
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Aedin Culhane
-</div>
-<div class="listing-date">
-Oct 16, 2022
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="2" data-categories="AICRI,Dublin" data-listing-date-sort="1664319600000" data-listing-file-modified-sort="1675117721308" data-listing-reading-time-sort="0.505">
-<a href="./News/22_09_28_AICRI_Launch/index.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="2" data-categories="AICRI,Dublin" data-listing-date-sort="1664319600000" data-listing-file-modified-sort="1675132676062" data-listing-reading-time-sort="0.505">
+<a href="./News/22_09_28_AICRI_Launch.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img src="./contents/photos/img/AICRI_launch.jpeg" class="thumbnail-image card-img" style="height: 250px;">
@@ -438,8 +481,8 @@ Sep 28, 2022
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="3" data-categories="Conference,Galway,Blood Cancer,Talk" data-listing-date-sort="1662678000000" data-listing-file-modified-sort="1675117787937" data-listing-reading-time-sort="0.225">
-<a href="./News/22_09_09_BCNI_talk/index.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="3" data-categories="Conference,Galway,Blood Cancer,Talk" data-listing-date-sort="1662678000000" data-listing-file-modified-sort="1675132683156" data-listing-reading-time-sort="0.225">
+<a href="./News/22_09_09_BCNI_talk.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img src="./contents/photos/img/BCNI_meeting.png" class="thumbnail-image card-img" style="height: 250px;">
@@ -463,7 +506,7 @@ Talk
 </div>
 </div>
 <div class="card-text listing-description">
-Presentation of the eHealth Hub at the BCNI Meeting.
+Presentation of the eHealth Hub at the Blood Cancer Network Ireland Meeting.
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -471,6 +514,72 @@ Aedin Culhane
 </div>
 <div class="listing-date">
 Sep 9, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="4" data-categories="RTE,News Article" data-listing-date-sort="1652914800000" data-listing-file-modified-sort="1675118100062" data-listing-reading-time-sort="0.21">
+<a href="./News/22_05_19_BrainStorm.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./contents/photos/img/BrainStorm.png" class="thumbnail-image card-img" style="height: 250px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+RTE Brainstorm Article
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('RTE'); return false;">
+RTE
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('News Article'); return false;">
+News Article
+</div>
+</div>
+<div class="card-text listing-description">
+Article about the eHealth-Hub on RTE Brainstorm
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Aedin Culhane
+</div>
+<div class="listing-date">
+May 19, 2022
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="5" data-categories="News Article,Limerick" data-listing-date-sort="1649026800000" data-listing-file-modified-sort="1675129261610" data-listing-reading-time-sort="0.1">
+<a href="./News/22-04-04_LimerickPost.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./contents/photos/img/2022_Apr_LimerickPost.png" class="thumbnail-image card-img" style="height: 250px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+LimerickPost
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('News Article'); return false;">
+News Article
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Limerick'); return false;">
+Limerick
+</div>
+</div>
+<div class="card-text listing-description">
+Limerick and Belfast researchers tackle ‘future cancer epidemic’ from the Limerick Post
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Aedin Culhane
+</div>
+<div class="listing-date">
+Apr 4, 2022
 </div>
 </div>
 </div>

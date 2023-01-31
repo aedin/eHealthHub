@@ -10,31 +10,42 @@
 <atom:link href="https://aedin.github.io/eHealthHub/news.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.2.269</generator>
-<lastBuildDate>Sat, 15 Oct 2022 23:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 30 Nov 2022 00:00:00 GMT</lastBuildDate>
 <item>
-  <title>eHealth-Hub at the OHDSI 2022 meeting</title>
+  <title>HRB</title>
   <dc:creator>Aedin Culhane</dc:creator>
-  <link>https://aedin.github.io/eHealthHub/News/22_05_19_BrainStorm/index.html</link>
+  <link>https://aedin.github.io/eHealthHub/News/22-11-30_HRB.html</link>
   <description><![CDATA[ 
 
 
 
-<p>In Oct 2022, the eHealthHub lead Prof Aedin Culhane attended the 2022 OHDSI Symposium, Oct.&nbsp;14-16, Bethesda, Washington DC. Prof Culhane met with OHDSI oncology collaborators</p>
-<p>Read more about the <a href="https://ohdsi.org/ohdsi2022symposium/">OHDSI conference</a></p>
+<p>On the 30th of Novemeber, the eHealthHub lead Prof Aedin Culhane was invited to chair and participate in a panel discussion on <strong>Personalised medicine in action</strong> at the National HRB Conference “Personalised Medicine in Ireland” held at the Radisson Blu Royal Hotel, Dublin.</p>
+<p>See more about the <a href="https://www.hrb.ie/news/events/archives/personalised-medicine/">National HRB Conference “Personalised Medicine in Ireland”</a></p>
+<p>Watch the panel discussion on youtube</p>
+<div class="cell">
+<div class="cell-output-display">
+<div class="vembedr">
+<div>
+<iframe src="https://www.youtube.com/embed/uc0LTOxXItI" width="533" height="300" frameborder="0" allowfullscreen="" data-external="1"></iframe>
+</div>
+</div>
+</div>
+</div>
 
 
 
  ]]></description>
-  <category>RTE</category>
-  <category>News Article</category>
-  <guid>https://aedin.github.io/eHealthHub/News/22_05_19_BrainStorm/index.html</guid>
-  <pubDate>Sat, 15 Oct 2022 23:00:00 GMT</pubDate>
-  <media:content url="https://aedin.github.io/eHealthHub/contents/photos/img/2022_OHDSI_meeting_WashingtonDC.jpg" medium="image" type="image/jpeg"/>
+  <category>Conference</category>
+  <category>Dublin</category>
+  <category>Video</category>
+  <guid>https://aedin.github.io/eHealthHub/News/22-11-30_HRB.html</guid>
+  <pubDate>Wed, 30 Nov 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://aedin.github.io/eHealthHub/contents/photos/img/2022_HRB_Conference.png" medium="image" type="image/png" height="74" width="144"/>
 </item>
 <item>
   <title>eHealth-Hub at the OHDSI 2022 meeting</title>
   <dc:creator>Aedin Culhane</dc:creator>
-  <link>https://aedin.github.io/eHealthHub/News/22-10-14_OHDSI/index.html</link>
+  <link>https://aedin.github.io/eHealthHub/News/22-10-14_OHDSI.html</link>
   <description><![CDATA[ 
 
 
@@ -45,22 +56,23 @@
 
 
  ]]></description>
-  <category>RTE</category>
-  <category>News Article</category>
-  <guid>https://aedin.github.io/eHealthHub/News/22-10-14_OHDSI/index.html</guid>
+  <category>USA</category>
+  <category>Conference</category>
+  <category>OHDSI</category>
+  <guid>https://aedin.github.io/eHealthHub/News/22-10-14_OHDSI.html</guid>
   <pubDate>Sat, 15 Oct 2022 23:00:00 GMT</pubDate>
   <media:content url="https://aedin.github.io/eHealthHub/contents/photos/img/2022_OHDSI_meeting_WashingtonDC.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>AICRI Launch</title>
   <dc:creator>Aedin Culhane</dc:creator>
-  <link>https://aedin.github.io/eHealthHub/News/22_09_28_AICRI_Launch/index.html</link>
+  <link>https://aedin.github.io/eHealthHub/News/22_09_28_AICRI_Launch.html</link>
   <description><![CDATA[ 
 
 
 
 <p>On the 28th of September, the eHealthHub team presented at the All-Ireland Cancer Institute (AICRI) Showcase event which was held in collaboration with 15th International Symposium on Translational Research in Oncology, at the <strong>Herbert Park Hotel, Dublin</strong>. This was in-person meeting provided an opportunity for the eHealthHub to showcase our vision, achievements to date and roadmap future activities. The event was well attended and we have lots of positive feedback from our presentation.</p>
-<p>Link to the our <a href="../../contents/presentations/AICRI_Sep28_Culhane_template.pptx">slides</a> from that presentation</p>
+<p>Link to the our <a href="../contents/presentations/22_09_28_AICRI_launch.pdf">slides</a> from that presentation</p>
 <p>Read more about the launch on the <a href="https://www.aicri.org/news/aicri-showcase-vision-and-progress-event">AICRI website</a> and watch a video of the Taoiseach’s (Irish Prime Minister’s) address to AICRI</p>
 
 
@@ -68,20 +80,20 @@
  ]]></description>
   <category>AICRI</category>
   <category>Dublin</category>
-  <guid>https://aedin.github.io/eHealthHub/News/22_09_28_AICRI_Launch/index.html</guid>
+  <guid>https://aedin.github.io/eHealthHub/News/22_09_28_AICRI_Launch.html</guid>
   <pubDate>Tue, 27 Sep 2022 23:00:00 GMT</pubDate>
   <media:content url="https://aedin.github.io/eHealthHub/contents/photos/img/AICRI_launch.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>BCNI Talk</title>
   <dc:creator>Aedin Culhane</dc:creator>
-  <link>https://aedin.github.io/eHealthHub/News/22_09_09_BCNI_talk/index.html</link>
+  <link>https://aedin.github.io/eHealthHub/News/22_09_09_BCNI_talk.html</link>
   <description><![CDATA[ 
 
 
 
 <p>On the 9th of September, the eHealthHub lead Prof Aedin Culhane presented at the <a href="https://nuigalwaybcni.clr.events/event/132483:blood-cancer-network-bcni-symposium-2022">Irish Blood Cancer Network Symposium</a> which was held in person in Galway.</p>
-<p>Link to the Prof Culhane’s <a href="./contents/BNCI_Sep9_Culhane_template.pptx">slides</a> from her presentation</p>
+<p>Link to the Prof Culhane’s <a href="../contents/presentations/22_09_09_BCNI_Galway.pdf">slides</a> of her presentation</p>
 <p>Read more about the Irish Blood Cancer Network Symposium(on the <a href="Irish Blood Cancer Network Symposium">BCNI website</a>.</p>
 
 
@@ -91,9 +103,48 @@
   <category>Galway</category>
   <category>Blood Cancer</category>
   <category>Talk</category>
-  <guid>https://aedin.github.io/eHealthHub/News/22_09_09_BCNI_talk/index.html</guid>
+  <guid>https://aedin.github.io/eHealthHub/News/22_09_09_BCNI_talk.html</guid>
   <pubDate>Thu, 08 Sep 2022 23:00:00 GMT</pubDate>
   <media:content url="https://aedin.github.io/eHealthHub/contents/photos/img/BCNI_meeting.png" medium="image" type="image/png" height="84" width="144"/>
+</item>
+<item>
+  <title>RTE Brainstorm Article</title>
+  <dc:creator>Aedin Culhane</dc:creator>
+  <link>https://aedin.github.io/eHealthHub/News/22_05_19_BrainStorm.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>In May 2022, the eHealthHub lead Prof Aedin Culhane and Prof Mark Lawler spoke with <a href="https://www.rte.ie/brainstorm/2022/0519/1299916-cancer-treatment-diagnosis-covid-delays-data-ireland-europe/">RTE Brainstorm</a> about the pressing need for harmonization of clinical cancer health data, to enable health research to tackle COVID-19 and Cancer</p>
+<p>Read more about on the <a href="https://www.rte.ie/brainstorm/2022/0519/1299916-cancer-treatment-diagnosis-covid-delays-data-ireland-europe/">RTE</a></p>
+
+
+
+ ]]></description>
+  <category>RTE</category>
+  <category>News Article</category>
+  <guid>https://aedin.github.io/eHealthHub/News/22_05_19_BrainStorm.html</guid>
+  <pubDate>Wed, 18 May 2022 23:00:00 GMT</pubDate>
+  <media:content url="https://aedin.github.io/eHealthHub/contents/photos/img/BrainStorm.png" medium="image" type="image/png" height="125" width="144"/>
+</item>
+<item>
+  <title>LimerickPost</title>
+  <dc:creator>Aedin Culhane</dc:creator>
+  <link>https://aedin.github.io/eHealthHub/News/22-04-04_LimerickPost.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>Article that appears in the <a href="https://www.limerickpost.ie/2022/04/04/limerick-and-belfast-researchers-tackle-future-cancer-epidemic/">Limerick Post 4th April 2022</a>, announcing receipt of funding for all-island eHealth research in cancer.</p>
+
+
+
+ ]]></description>
+  <category>News Article</category>
+  <category>Limerick</category>
+  <guid>https://aedin.github.io/eHealthHub/News/22-04-04_LimerickPost.html</guid>
+  <pubDate>Sun, 03 Apr 2022 23:00:00 GMT</pubDate>
+  <media:content url="https://aedin.github.io/eHealthHub/contents/photos/img/2022_Apr_LimerickPost.png" medium="image" type="image/png" height="141" width="144"/>
 </item>
 </channel>
 </rss>

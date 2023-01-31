@@ -71,9 +71,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-filename','listing-file-modified',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-title-sort'] },{ data: ['listing-date-sort'] }],
       
-      searchColumns: ["listing-categories"],
+      searchColumns: ["listing-title","listing-date","listing-description","listing-categories","listing-tag"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -94,7 +94,7 @@ ul.task-list li input[type="checkbox"] {
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="styles.css">
-<meta property="og:title" content="All-Island eHealth-Hub for Cancer - Talks">
+<link rel="alternate" type="application/rss+xml" title="All-Island eHealth-Hub for Cancer" href="talks.xml"><meta property="og:title" content="All-Island eHealth-Hub for Cancer - Talks">
 <meta property="og:site-name" content="All-Island eHealth-Hub for Cancer">
 <meta name="twitter:title" content="All-Island eHealth-Hub for Cancer - Talks">
 <meta name="twitter:creator" content="@AedinCulhane">
@@ -188,7 +188,7 @@ ul.task-list li input[type="checkbox"] {
   </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation docked overflow-auto">
         <div class="sidebar-tools-main">
@@ -232,22 +232,37 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth2 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./News/22_09_28_AICRI_Launch/index.html" class="sidebar-item-text sidebar-link">AICRI Launch</a>
+  <a href="./News/22_09_28_AICRI_Launch.html" class="sidebar-item-text sidebar-link">AICRI Launch</a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./News/22_09_09_BCNI_talk/index.html" class="sidebar-item-text sidebar-link">BCNI Talk</a>
+  <a href="./News/22_09_09_BCNI_talk.html" class="sidebar-item-text sidebar-link">BCNI Talk</a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./News/22_05_19_BrainStorm/index.html" class="sidebar-item-text sidebar-link">eHealth-Hub at the OHDSI 2022 meeting</a>
+  <a href="./News/22-10-14_OHDSI.html" class="sidebar-item-text sidebar-link">eHealth-Hub at the OHDSI 2022 meeting</a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./News/22-10-14_OHDSI/index.html" class="sidebar-item-text sidebar-link">eHealth-Hub at the OHDSI 2022 meeting</a>
+  <a href="./News/template.html" class="sidebar-item-text sidebar-link">HRB</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./News/22-11-30_HRB.html" class="sidebar-item-text sidebar-link">HRB</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./News/22-04-04_LimerickPost.html" class="sidebar-item-text sidebar-link">LimerickPost</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./News/22_05_19_BrainStorm.html" class="sidebar-item-text sidebar-link">RTE Brainstorm Article</a>
   </div>
 </li>
       </ul>
@@ -301,9 +316,9 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#section" id="toc-section" class="nav-link active" data-scroll-target="#section"></a></li>
   </ul>
 </nav>
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(0)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div></div></div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content column-body" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -329,10 +344,45 @@ ul.task-list li input[type="checkbox"] {
 
 </section>
 
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="list grid quarto-listing-cols-3">
-
+<div class="quarto-listing quarto-listing-container-table" id="listing-listing">
+<div class="listing-actions-group">
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
 </div>
+
+<table class="quarto-listing-table table">
+<thead>
+<tr>
+<th>
+File Name
+</th>
+<th>
+Modified
+</th>
+</tr>
+</thead>
+<tbody class="list">
+<tr data-index="0" data-listing-file-modified-sort="1675050079043" data-listing-filename-sort="22_09_09_BCNI_Galway.pdf">
+<td class="listing-filename">
+<a href="./contents/presentations/22_09_09_BCNI_Galway.pdf" class="filename">22_09_09_BCNI_Galway.pdf</a>
+</td>
+<td class="listing-file-modified">
+1/30/23, 3:41:19 AM
+</td>
+</tr>
+<tr data-index="1" data-listing-file-modified-sort="1675050097998" data-listing-filename-sort="22_09_28_AICRI_launch.pdf">
+<td class="listing-filename">
+<a href="./contents/presentations/22_09_28_AICRI_launch.pdf" class="filename">22_09_28_AICRI_launch.pdf</a>
+</td>
+<td class="listing-file-modified">
+1/30/23, 3:41:37 AM
+</td>
+</tr>
+</tbody>
+
+</table>
 <div class="listing-no-matching d-none">
 No matching items
 </div>

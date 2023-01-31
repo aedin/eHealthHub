@@ -1,0 +1,28 @@
+---
+title: "HRB "
+description: Prof Culhane invited to chair and participate in panel discussion at the National HRB Conference "Personalised Medicine in Ireland"  
+ 
+image: ../../contents/photos/img/2022_HRB_Conference.png
+card_style: "summary_large_image"
+params:
+  tag: "HRB"
+  date: "2022-11-30"
+author: "Aedin Culhane"
+date: "2022-11-30"
+categories:
+  - Conference
+  - Dublin
+draft: true
+---
+
+On the 30th of Novemeber, the eHealthHub lead Prof Aedin Culhane was invited to chair and participate in a panel discussion on **Personalised medicine in action** at the National HRB Conference "Personalised Medicine in Ireland" held at the Radisson Blu Royal Hotel, Dublin.
+
+See more about the [National HRB Conference "Personalised Medicine in Ireland"](https://www.hrb.ie/news/events/archives/personalised-medicine/)
+
+Watch the panel discussion on youtube
+
+```{r, echo=FALSE}
+library("vembedr")
+
+embed_url("https://youtu.be/uc0LTOxXItI")
+```

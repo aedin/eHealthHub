@@ -1,71 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://aedin.github.io/eHealthHub/Partners.html</loc>
+    <lastmod>2023-01-31T02:38:04.328Z</lastmod>
+  </url>
+  <url>
     <loc>https://aedin.github.io/eHealthHub/talks.html</loc>
-    <lastmod>2023-01-30T22:32:11.823Z</lastmod>
+    <lastmod>2023-01-31T02:38:04.812Z</lastmod>
   </url>
   <url>
     <loc>https://aedin.github.io/eHealthHub/events.html</loc>
-    <lastmod>2023-01-30T22:32:12.277Z</lastmod>
+    <lastmod>2023-01-31T02:38:05.253Z</lastmod>
   </url>
   <url>
     <loc>https://aedin.github.io/eHealthHub/contributing.html</loc>
-    <lastmod>2023-01-30T22:32:13.215Z</lastmod>
+    <lastmod>2023-01-31T02:38:06.166Z</lastmod>
   </url>
   <url>
     <loc>https://aedin.github.io/eHealthHub/news.html</loc>
-    <lastmod>2023-01-30T22:32:13.768Z</lastmod>
+    <lastmod>2023-01-31T02:38:06.689Z</lastmod>
   </url>
   <url>
     <loc>https://aedin.github.io/eHealthHub/projects.html</loc>
-    <lastmod>2023-01-30T22:32:14.247Z</lastmod>
+    <lastmod>2023-01-31T02:38:07.142Z</lastmod>
   </url>
   <url>
     <loc>https://aedin.github.io/eHealthHub/index.html</loc>
-    <lastmod>2023-01-30T22:32:14.684Z</lastmod>
+    <lastmod>2023-01-31T02:38:07.576Z</lastmod>
   </url>
   <url>
     <loc>https://aedin.github.io/eHealthHub/publications.html</loc>
-    <lastmod>2023-01-30T22:32:18.006Z</lastmod>
+    <lastmod>2023-01-31T02:38:10.641Z</lastmod>
   </url>
   <url>
     <loc>https://aedin.github.io/eHealthHub/about.html</loc>
-    <lastmod>2023-01-30T22:32:18.513Z</lastmod>
+    <lastmod>2023-01-31T02:38:11.130Z</lastmod>
   </url>
   <url>
-    <loc>https://aedin.github.io/eHealthHub/News/22_09_09_BCNI_talk/index.html</loc>
-    <lastmod>2023-01-30T22:32:19.006Z</lastmod>
+    <loc>https://aedin.github.io/eHealthHub/News/22_09_09_BCNI_talk.html</loc>
+    <lastmod>2023-01-31T02:38:11.573Z</lastmod>
   </url>
   <url>
-    <loc>https://aedin.github.io/eHealthHub/News/22_09_28_AICRI_Launch/index.html</loc>
-    <lastmod>2023-01-30T22:32:19.470Z</lastmod>
+    <loc>https://aedin.github.io/eHealthHub/News/22-10-14_OHDSI.html</loc>
+    <lastmod>2023-01-31T02:38:12.011Z</lastmod>
   </url>
   <url>
-    <loc>https://aedin.github.io/eHealthHub/News/22_05_19_BrainStorm/index.html</loc>
-    <lastmod>2023-01-30T22:32:19.914Z</lastmod>
+    <loc>https://aedin.github.io/eHealthHub/News/22-04-04_LimerickPost.html</loc>
+    <lastmod>2023-01-31T02:38:12.450Z</lastmod>
   </url>
   <url>
-    <loc>https://aedin.github.io/eHealthHub/News/22-10-14_OHDSI/index.html</loc>
-    <lastmod>2023-01-30T22:32:20.349Z</lastmod>
+    <loc>https://aedin.github.io/eHealthHub/News/22_09_28_AICRI_Launch.html</loc>
+    <lastmod>2023-01-31T02:38:12.893Z</lastmod>
+  </url>
+  <url>
+    <loc>https://aedin.github.io/eHealthHub/News/22_05_19_BrainStorm.html</loc>
+    <lastmod>2023-01-31T02:38:14.358Z</lastmod>
+  </url>
+  <url>
+    <loc>https://aedin.github.io/eHealthHub/News/22-11-30_HRB.html</loc>
+    <lastmod>2023-01-31T02:38:15.355Z</lastmod>
   </url>
   <url>
     <loc>https://aedin.github.io/eHealthHub/people.html</loc>
-    <lastmod>2023-01-30T22:32:20.828Z</lastmod>
+    <lastmod>2023-01-31T02:38:15.835Z</lastmod>
   </url>
   <url>
     <loc>https://aedin.github.io/eHealthHub/People/RuthClifford/index.html</loc>
-    <lastmod>2023-01-30T22:32:21.305Z</lastmod>
+    <lastmod>2023-01-31T02:38:16.303Z</lastmod>
   </url>
   <url>
     <loc>https://aedin.github.io/eHealthHub/People/AedinCulhane/index.html</loc>
-    <lastmod>2023-01-30T22:32:21.761Z</lastmod>
+    <lastmod>2023-01-31T02:38:16.746Z</lastmod>
   </url>
   <url>
     <loc>https://aedin.github.io/eHealthHub/People/MarkLawlor/index.html</loc>
-    <lastmod>2023-01-30T22:32:22.219Z</lastmod>
+    <lastmod>2023-01-31T02:38:17.195Z</lastmod>
   </url>
   <url>
     <loc>https://aedin.github.io/eHealthHub/footer.html</loc>
-    <lastmod>2023-01-30T22:32:22.648Z</lastmod>
+    <lastmod>2023-01-31T02:38:17.648Z</lastmod>
   </url>
 </urlset>

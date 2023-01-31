@@ -1,11 +1,15 @@
 ---
 title: "Talks"
 listing:
-  contents: presentations 
-  type: grid
-  grid-columns: 3
+  contents: contents/presentations/*.pdf 
+  type: table
+  sort: "date desc"
   image-height: 200px
   categories: true
+  feed: true
+  sort-ui: [title, date]
+  filter-ui: [title, date, description, categories, tag]
+page-layout: full
 ---
 
 ## 

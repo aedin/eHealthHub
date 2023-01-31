@@ -1,14 +1,16 @@
 ---
 title: "News"
 listing:
-  contents: News
+  id: News
+  contents: News/*.qmd
   sort: "date desc"
   type: grid
   grid-columns: 3
   image-height: 250px
   categories: true
   feed: true
-
+  sort-ui: [title, date]
+  filter-ui: [title, date, description, categories, tag]
 page-layout: full
 ---
 
