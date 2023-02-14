@@ -33,8 +33,9 @@ website:
         file: about.qmd 
       - text: "People"
         menu: 
-            - people.qmd
-            - partners.qmd
+          - people.qmd
+          - partners.qmd
+            
       - text: "Projects"
         file: projects.qmd
       - text: "News"

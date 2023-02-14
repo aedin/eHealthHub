@@ -11,8 +11,6 @@ The all-island eHealth Hub for Cancer is an all-island partnership on the island
 
 ![](contents/presentations/select_images/data_integration.jpeg){fig-alt="health data eHealth Hub"}
 
-<hr>
-
 # Funding Sources
 
 The eHealth-Hub for Cancer is an emerging hub of excellence funded under the Higher Education Authority Shared Island North-South Program.
