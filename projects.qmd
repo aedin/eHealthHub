@@ -13,7 +13,7 @@ about:
 
 ## Projects
 
-**Patient-Drug Matchmaker** will develop approaches to match patients to new therapies including clinical trials. It will combine the latest literature, clinical and preclinical studies, and latest bioinformatics in gene-drug interaction (OpenTargets, pharmgkb, PharmacoGx) to provide expanded levels of evidence on clinicals trials and adverse effects to health care providers.
+
 
 **Connecting OMOP-CDM to genomics** will explore predictors immunotherapy response using EHR and genomics data. It will use global eHealth data to define genomic and non-genomic predictors of response to immunotherapy in oncology
 
