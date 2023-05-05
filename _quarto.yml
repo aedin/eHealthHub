@@ -34,7 +34,7 @@ website:
       - text: "People"
         file: people.qmd
       - text: "Partners"    
-        file: partners.qmd
+        file: Partners.qmd
       - text: "Projects"
         file: projects.qmd
       - text: "News"
