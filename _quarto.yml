@@ -32,9 +32,9 @@ website:
       - text: "About"
         file: about.qmd 
       - text: "People"
-        menu: 
-            - people.qmd
-            - partners.qmd
+        file: people.qmd
+      - text: "Partners"    
+        file: partners.qmd
       - text: "Projects"
         file: projects.qmd
       - text: "News"

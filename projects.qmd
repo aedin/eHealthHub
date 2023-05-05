@@ -14,20 +14,21 @@ about:
 ## Projects
 
 
+Coming soon
 
-**Connecting OMOP-CDM to genomics** will explore predictors immunotherapy response using EHR and genomics data. It will use global eHealth data to define genomic and non-genomic predictors of response to immunotherapy in oncology
+<!-- **Connecting OMOP-CDM to genomics** will explore predictors immunotherapy response using EHR and genomics data. It will use global eHealth data to define genomic and non-genomic predictors of response to immunotherapy in oncology -->
 
-**Software apps that support clinical decision making in medicine** will use existing FDA guidelines to develop apps that inform clinical practice and decision making.
+<!-- **Software apps that support clinical decision making in medicine** will use existing FDA guidelines to develop apps that inform clinical practice and decision making. -->
 
-**Large scale frameworks for observational health studies in Haematological Malignancies** will develop the data dictionaries and software to enable sharing of BCNI data with HARMONY to enable Ireland to actively participate in EU-wide blood cancer epidemiology research.
+<!-- **Large scale frameworks for observational health studies in Haematological Malignancies** will develop the data dictionaries and software to enable sharing of BCNI data with HARMONY to enable Ireland to actively participate in EU-wide blood cancer epidemiology research. -->
 
-**All-island characterization of Blood Cancers** will develop data dictionaries for other blood cancers with urgent clinical need and integrate clinical data registry, biospecimen collection and advanced genomics to identify the most beneficial clinical trials for Irish blood cancer patients based on availability of biospecimens for pre-clinical research and quality of life (Patient Reported Outcome Measures) studies
+<!-- **All-island characterization of Blood Cancers** will develop data dictionaries for other blood cancers with urgent clinical need and integrate clinical data registry, biospecimen collection and advanced genomics to identify the most beneficial clinical trials for Irish blood cancer patients based on availability of biospecimens for pre-clinical research and quality of life (Patient Reported Outcome Measures) studies -->
 
-**Risk of brain metastasis in breast cancer**will develop the data dictionaries tools to harmonize breast cancer and connect to [OPTIMA](https://www.optima-oncology.eu/) patient data to facilitate the identification of biomarkers linked with advanced breast cancer and specifically the development of brain metastases. It will identify aligned biobanked tissue for study of multi-omics markers of metastasis
+<!-- **Risk of brain metastasis in breast cancer**will develop the data dictionaries tools to harmonize breast cancer and connect to [OPTIMA](https://www.optima-oncology.eu/) patient data to facilitate the identification of biomarkers linked with advanced breast cancer and specifically the development of brain metastases. It will identify aligned biobanked tissue for study of multi-omics markers of metastasis -->
 
-**Characterization of upper gastrointestinal (UGI) cancer outcomes** will develop the data dictionaries to map, ETL and examine UGI cancer treated with curative intent (about 25% had no neoadjuvant therapy) in 3000 patients, and investigate molecular markers in aligned biobank material stored (RNA/snap frozen tumour samples/FFPE tissue)
+<!-- **Characterization of upper gastrointestinal (UGI) cancer outcomes** will develop the data dictionaries to map, ETL and examine UGI cancer treated with curative intent (about 25% had no neoadjuvant therapy) in 3000 patients, and investigate molecular markers in aligned biobank material stored (RNA/snap frozen tumour samples/FFPE tissue) -->
 
-| **Impact of COVID-19 on cancer care** will analyse cancer referrals, diagnoses and treatment, measure presentational, diagnostic and treatment delays, and how this translates into cancer stage shift, increased morbidity and projected mortality for cancer patients on the island of Ireland.
+<!-- | **Impact of COVID-19 on cancer care** will analyse cancer referrals, diagnoses and treatment, measure presentational, diagnostic and treatment delays, and how this translates into cancer stage shift, increased morbidity and projected mortality for cancer patients on the island of Ireland. -->
 
-**Impact of COVID-19 on cancer survivors** will study the impact of the COVID-19 pandemic on cancer survivors across the island of Ireland\
-**Impact of COVID-19 on Cancer Disparities** will study if COVID-19 pandemic increased disparities in cancer outcomes across the island of Ireland
+<!-- **Impact of COVID-19 on cancer survivors** will study the impact of the COVID-19 pandemic on cancer survivors across the island of Ireland\ -->
+<!-- **Impact of COVID-19 on Cancer Disparities** will study if COVID-19 pandemic increased disparities in cancer outcomes across the island of Ireland --> 
