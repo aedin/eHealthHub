@@ -14,6 +14,7 @@ categories:
   - News Article
   - Limerick
 ---
+
 ![](../../contents/photos/img/2022_Apr_LimerickPost.png)
 
 Article that appears in the [Limerick Post 4th April 2022](https://www.limerickpost.ie/2022/04/04/limerick-and-belfast-researchers-tackle-future-cancer-epidemic/), announcing receipt of funding for all-island eHealth research in cancer.

@@ -1,15 +1,12 @@
 [
   {
-    "listing": "/talks.html",
-    "items": []
-  },
-  {
     "listing": "/events.html",
     "items": []
   },
   {
     "listing": "/news.html",
     "items": [
+      "/News/23-04-20_DELL_Technologies.html",
       "/News/22-11-30_HRB.html",
       "/News/22-10-14_OHDSI.html",
       "/News/22_09_28_AICRI_Launch.html",
@@ -19,15 +16,19 @@
     ]
   },
   {
-    "listing": "/publications.html",
-    "items": []
-  },
-  {
     "listing": "/people.html",
     "items": [
       "/People/AedinCulhane/index.html",
       "/People/MarkLawlor/index.html",
       "/People/RuthClifford/index.html"
     ]
+  },
+  {
+    "listing": "/publications.html",
+    "items": []
+  },
+  {
+    "listing": "/talks.html",
+    "items": []
   }
 ]

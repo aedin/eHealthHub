@@ -9,8 +9,28 @@
 <link>https://aedin.github.io/eHealthHub/news.html</link>
 <atom:link href="https://aedin.github.io/eHealthHub/news.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.2.269</generator>
-<lastBuildDate>Wed, 30 Nov 2022 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.2.335</generator>
+<lastBuildDate>Wed, 19 Apr 2023 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Professor Mark Lawler and DELL Technologies</title>
+  <dc:creator>Aedin Culhane</dc:creator>
+  <link>https://aedin.github.io/eHealthHub/News/23-04-20_DELL_Technologies.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>The eHealth Hub’s own Professor Mark Lawler, Chair in Translational Cancer Genomics at Queens University Belfast and DATACAN Leader gave a talk on Connected Health as part of the final module of the [Digital Futures in Healthcare program](https://www.dell.com/en-ie/dt/microsites/digital-futures-in-healthcare.htm#scroll=off) with DELL Technologies.</p>
+<p>This talk was extremely informative for all participants to gain insights into the next generation of diagnostics, the healthcare digital workplace of the future and the interesting world of personalised medicine.</p>
+
+
+
+ ]]></description>
+  <category>DELL Technologies</category>
+  <category>Connected Health</category>
+  <category>Talk</category>
+  <guid>https://aedin.github.io/eHealthHub/News/23-04-20_DELL_Technologies.html</guid>
+  <pubDate>Wed, 19 Apr 2023 23:00:00 GMT</pubDate>
+</item>
 <item>
   <title>HRB</title>
   <dc:creator>Aedin Culhane</dc:creator>
@@ -135,6 +155,7 @@
 
 
 
+<p><img src="https://aedin.github.io/eHealthHub/../contents/photos/img/2022_Apr_LimerickPost.png" class="img-fluid"></p>
 <p>Article that appears in the <a href="https://www.limerickpost.ie/2022/04/04/limerick-and-belfast-researchers-tackle-future-cancer-epidemic/">Limerick Post 4th April 2022</a>, announcing receipt of funding for all-island eHealth research in cancer.</p>
 
 

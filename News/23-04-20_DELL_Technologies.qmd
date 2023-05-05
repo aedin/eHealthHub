@@ -1,19 +1,20 @@
 ---
 title: "Professor Mark Lawler and DELL Technologies"
 description: 
-  Presentation of the eHealth Hub at the Blood Cancer Network Ireland Meeting.
-image: ../../contents/photos/img/BrainStorm.png
+ Presentation by Mark Lawler on Connected Health for the Digital Futures in Healthcare program with DELL Technologies. 
+
 card_style: "summary_large_image"
 params:
-  tag: "RTE_Brainstorm"
+  tag: "DELL Talk"
   date: "2022-05-19"
 author: "Aedin Culhane"
-date: "2022-05-19"
+date: "2023-04-20"
 categories:
-  - RTE
-  - News Article
+  - DELL Technologies 
+  - Connected Health
+  - Talk
 ---
 
-In May 2022, the eHealthHub lead Prof Aedin Culhane and Prof Mark Lawler spoke with [RTE Brainstorm](https://www.rte.ie/brainstorm/2022/0519/1299916-cancer-treatment-diagnosis-covid-delays-data-ireland-europe/) about the pressing need for harmonization of clinical cancer health data, to enable health research to tackle COVID-19 and Cancer
+The eHealth Hub's own Professor Mark Lawler, Chair in Translational Cancer Genomics at Queens University Belfast and DATACAN Leader gave a talk on Connected Health as part of the final module of the \[Digital Futures in Healthcare program\](https://www.dell.com/en-ie/dt/microsites/digital-futures-in-healthcare.htm#scroll=off) with DELL Technologies.
 
-Read more about on the [RTE](https://www.rte.ie/brainstorm/2022/0519/1299916-cancer-treatment-diagnosis-covid-delays-data-ireland-europe/)
+This talk was extremely informative for all participants to gain insights into the next generation of diagnostics, the healthcare digital workplace of the future and the interesting world of personalised medicine.
