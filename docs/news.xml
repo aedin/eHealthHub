@@ -10,7 +10,29 @@
 <atom:link href="https://aedin.github.io/eHealthHub/news.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.2.335</generator>
-<lastBuildDate>Sun, 07 May 2023 23:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 11 May 2023 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>PhD Advert</title>
+  <dc:creator>Aedin Culhane</dc:creator>
+  <link>https://aedin.github.io/eHealthHub/News/PhD_Advert.html</link>
+  <description><![CDATA[ 
+
+
+
+<p><img src="https://aedin.github.io/eHealthHub/../contents/photos/img/Computer_Stockphoto.PNG" class="img-fluid"></p>
+<p>Interested in a Fully-Funded PhD? Follow the link <a href="https://www.ul.ie/gps/funded-postgraduate-research-scholarships">PhD Advert</a> to hear all about our exciting new research projects in Digital Health.</p>
+<p>We are looking for PhD students to work on cutting-edge cancer health data science research. Fully funded PhD studentship includes a tax-free stipend (with fees paid) along with expenses, 12-month travel to partner sites and materials are available.</p>
+<p>Informal queries can be made to Aedin Culhane by emailing eHealth@ul.ie</p>
+
+
+
+ ]]></description>
+  <category>PhD</category>
+  <category>Research Opportunity</category>
+  <guid>https://aedin.github.io/eHealthHub/News/PhD_Advert.html</guid>
+  <pubDate>Thu, 11 May 2023 23:00:00 GMT</pubDate>
+  <media:content url="https://aedin.github.io/eHealthHub/contents/photos/img/Computer_Stockphoto.PNG" medium="image"/>
+</item>
 <item>
   <title>Belfast Agreement 25 Cancer Showcase</title>
   <dc:creator>Aedin Culhane</dc:creator>
