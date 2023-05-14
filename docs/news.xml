@@ -10,7 +10,31 @@
 <atom:link href="https://aedin.github.io/eHealthHub/news.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.2.335</generator>
-<lastBuildDate>Mon, 24 Apr 2023 23:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 07 May 2023 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Belfast Agreement 25 Cancer Showcase</title>
+  <dc:creator>Aedin Culhane</dc:creator>
+  <link>https://aedin.github.io/eHealthHub/News/08_05_23_25th-Belfast.html</link>
+  <description><![CDATA[ 
+
+
+
+<p><img src="https://aedin.github.io/eHealthHub/../contents/photos/img/25th_Belfast.jpeg" class="img-fluid"></p>
+<p>Prof Aedin Culhane and Prof Mark Lawler met Tánaiste Micheál Martin at the Belfast Agreement 25 Cancer Showcase event in April to discuss greater cross-border collaboration on cancer research.</p>
+<p>‘Cancer Knows No Borders’ was the theme of the recent event which celebrated the positive impacts of the Good Friday Agreement upon cancer research and care across the island of Ireland.</p>
+<p>Check out these links to learn more!</p>
+<p><a href="https://www.irishtimes.com/health/2023/04/17/countless-lives-saved-from-cancer-due-to-belfast-agreement/">The Irish Times</a> and <a href="https://www.ul.ie/news/ul-academic-discusses-need-for-greater-cross-border-collaboration-on-cancer-research">ULNews</a></p>
+
+
+
+ ]]></description>
+  <category>Belfast</category>
+  <category>Good Friday</category>
+  <category>Conference</category>
+  <guid>https://aedin.github.io/eHealthHub/News/08_05_23_25th-Belfast.html</guid>
+  <pubDate>Sun, 07 May 2023 23:00:00 GMT</pubDate>
+  <media:content url="https://aedin.github.io/eHealthHub/contents/photos/img/25th_Belfast.jpeg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>LDCRC Building Together Event</title>
   <dc:creator>Aedin Culhane</dc:creator>
