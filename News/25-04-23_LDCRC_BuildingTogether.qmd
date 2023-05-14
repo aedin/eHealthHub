@@ -1,0 +1,22 @@
+---
+title: "LDCRC Building Together Event"
+description:
+ LDCRC Building Together Event led by Prof Aedin Culhane and Ruth Clifford
+
+image: ../../contents/photos/img/LDCRC_BuildingTogether_April_2023.jpeg
+
+card_style: "summary_large_image"
+params:
+  tag: "LDCRC"
+  date: "2023-04-25"
+author: "Aedin Culhane"
+date: "2023-04-25"
+categories:
+  - LDCRC
+  - Connected Health
+  - Talk
+---
+
+The event was led by Prof. Aedín Culhane Director of the LDCRC (UL) and Prof. Ruth Clifford (UL) Clinical Director/Lead. It was a pleasure to hear from such gifted speakers on the day who provided us with insights into various aspects of cancer research.  
+
+To learn more about the [LDCRC](https://www.ul.ie/limerick-dcrc), Please follow the link!
