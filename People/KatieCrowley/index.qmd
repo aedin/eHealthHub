@@ -1,0 +1,39 @@
+---
+title: Dr. Katie Crowley
+about:
+  template: solana
+  image-width: 10em
+  image-shape: round
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com
+    - icon: github
+      text: Github
+      href: https://github.com
+    - icon: linkedin
+      text: LinkedIn
+      href:  https://www.linkedin.com/in/katiecrowley/?originalSubdomain=ie
+    - icon: house-door
+      text: Homepage
+      href: 
+    - icon: envelope
+      text: email
+      href: 
+description:
+Associate Professor Computer Science & Health Informatics 
+Funded Investigator @ Lero
+University of Limerick
+image: ../../contents/photos/people/KatieCrowley.png
+card_style: "summary_large_image"
+categories:
+  - Project Supervisor
+  - Limerick
+  - LDCRC
+---
+
+## Prof Katie Crowley
+
+Associate Professor Computer Science & Health Informatics \| Funded Investigator \@ Lero
+
+[LinkedIn](https://www.linkedin.com/in/katiecrowley/?originalSubdomain=ie)
