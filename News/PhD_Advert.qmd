@@ -1,0 +1,28 @@
+---
+title: "PhD Advert"
+description:
+ Interested in a Fully-Funded PhD?
+
+image: ../../contents/photos/img/Computer_Stockphoto.PNG
+
+card_style: "summary_large_image"
+params:
+  tag: "Research"
+  date: "2023-05-12"
+author: "Aedin Culhane"
+date: "2023-05-12"
+categories:
+  - PhD
+  - Research Opportunity
+---
+
+![](../../contents/photos/img/Computer_Stockphoto.PNG)
+
+Interested in a Fully-Funded PhD? Follow the link [PhD Advert](https://www.ul.ie/gps/funded-postgraduate-research-scholarships) to hear all about our exciting new research projects in Digital Health. 
+
+We are looking for PhD students to work on cutting-edge cancer health data science research. Fully funded PhD studentship includes a tax-free stipend (with fees paid) along with expenses, 12-month travel to partner sites and materials are available. 
+
+Informal queries can be made to Aedin Culhane by emailing eHealth@ul.ie
+
+
+

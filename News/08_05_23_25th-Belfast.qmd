@@ -1,0 +1,30 @@
+---
+title: "Belfast Agreement 25 Cancer Showcase"
+description: 
+ Belfast Agreement 25 Cancer Showcase discusses need for greater cross-border collaboration on cancer research
+
+image: ../../contents/photos/img/25th_Belfast.jpeg
+
+card_style: "summary_large_image"
+params:
+  tag: "Belfast_Agreement"
+  date: "2023-05-08"
+author: "Aedin Culhane"
+date: "2023-05-08"
+categories:
+  - Belfast
+  - Good Friday
+  - Conference
+---
+
+![](../../contents/photos/img/25th_Belfast.jpeg)
+
+Prof Aedin Culhane and Prof Mark Lawler met Tánaiste Micheál Martin at the Belfast Agreement 25 Cancer Showcase event in April to discuss greater cross-border collaboration on cancer research.
+
+‘Cancer Knows No Borders’ was the theme of the recent event which celebrated the positive impacts of the Good Friday Agreement upon cancer research and care across the island of Ireland.
+
+
+Check out these links to learn more! 
+
+[The Irish Times](https://www.irishtimes.com/health/2023/04/17/countless-lives-saved-from-cancer-due-to-belfast-agreement/) and [ULNews](https://www.ul.ie/news/ul-academic-discusses-need-for-greater-cross-border-collaboration-on-cancer-research)
+

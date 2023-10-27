@@ -1,6 +1,0 @@
----
-title: "footer"
-editor: visual
----
-
-![LDCRC](contents/logo/LDCRC_Logo_fixed.jpg "Limerick Digital Cancer Research Center"){width="271"} ![Queens University Belfast](contents/logo/QUB_logo.jpg){width="139"}![HEA Shared island funding](contents/logo/NSRP_Logo.png){width="152"}

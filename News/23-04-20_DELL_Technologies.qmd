@@ -1,0 +1,24 @@
+---
+title: "Prof Mark Lawler and DELL Technologies"
+description: 
+ Presentation by Prof Mark Lawler on Connected Health for the Digital Futures in Healthcare program with DELL Technologies. 
+ 
+image: ../../contents/photos/img/DELL.PNG 
+
+card_style: "summary_large_image"
+params:
+  tag: "DELL Talk"
+  date: "2022-05-19"
+author: "Aedin Culhane"
+date: "2023-04-20"
+categories:
+  - DELL Technologies 
+  - Connected Health
+  - Talk
+---
+
+![](../../contents/photos/img/DELL.PNG)
+
+Prof Mark Lawler, Chair in Translational Cancer Genomics at Queens University Belfast and DATACAN Leader gave a talk on Connected Health as part of the final module of the [Digital Futures in Healthcare program](https://www.dell.com/en-ie/dt/microsites/digital-futures-in-healthcare.htm#scroll=off) with DELL Technologies.
+
+This talk was extremely informative for all participants to gain insights into the next generation of diagnostics, the healthcare digital workplace of the future and the interesting world of personalised medicine.
