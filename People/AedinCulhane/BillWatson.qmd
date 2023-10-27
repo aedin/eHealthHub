@@ -1,0 +1,33 @@
+---
+title: Prof Bill Watson
+about:
+  template: solana
+  image-width: 10em
+  image-shape: round
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/
+    - icon: github
+      text: Github
+      href: https://github.com
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/
+    - icon: house-door
+      text: Homepage
+      href: https://www.linkedin.com/in/
+    - icon: envelope
+      text: email
+      href: mailto:william.watson at ucd.ie
+description: 
+  Professor, University College Dublin
+image: ../../contents/photos/people/BillWatson.jpeg
+card_style: "summary_large_image"
+categories:
+  - Project Supervisor
+  - Dublin
+  - UCD
+---
+
+## Prof Bill Watson
