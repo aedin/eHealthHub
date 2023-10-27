@@ -1,0 +1,35 @@
+---
+title: " All-Island study highlights the cancer legacy of the Good Friday Agreement"
+description: 
+New all-island research led by Queen’s University Belfast highlights the health and economic impact of the Good Friday Agreement on cancer across the island of Ireland in the last 25 years.
+
+image: ../../contents/photos/img/25th_Belfast.jpeg
+
+card_style: "summary_large_image"
+params:
+  tag: "Belfast_Agreement"
+  date: "2023-05-08"
+author: "Aedin Culhane"
+date: "2023-10-24"
+categories:
+  - Belfast
+  - Good Friday
+  - Cancer Research
+  - All Island
+---
+
+![](../../contents/photos/img/2023_Belfast%20Photo%201.jpeg)
+
+The work, involving researchers from Northern Ireland, Ireland, the UK and the U.S. has been published today in the [Journal of Cancer Policy](https://doi.org/10.1016/j.jcpo.2023.100448), the number one cancer policy journal globally.
+
+The study highlights the impact of the Ireland - Northern Ireland -- U.S. National Cancer Institute Cancer Consortium, the brainchild of former Queen's University's Vice-Chancellor, Professor Patrick G. Johnston.
+
+The Consortium is a unique partnership, established in 1999, between the governments of Ireland, Northern Ireland and the U.S., as a direct result of the Good Friday Agreement.
+
+The study shows how the Consortium acted as a catalyst, enhancing cancer research quantity and quality both between researchers in Northern Ireland and Ireland and with premier institutions in the U.S., leading to improved cancer outcomes on the island of Ireland.
+
+The study highlighted a 550% increase in the quality of joint cancer research on the island, an economic dividend which enhanced research leading to an increase in university spin-out activity and an improvement in cancer outcomes.
+
+Check out these links to learn more!
+
+[UL News](https://www.ul.ie/news/all-island-study-involving-ul-researcher-highlights-cancer-legacy-of-good-friday-agreement) and [QUB News](https://www.qub.ac.uk/News/Allnews/featured-research/All-IslandstudyhighlightsthecancerlegacyoftheGoodFridayAgreement.html)

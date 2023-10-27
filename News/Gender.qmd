@@ -1,0 +1,38 @@
+---
+title: "New study highlights significant gender inequality and bias in cancer research"
+description: A new study, the first of its kind, highlights the extent of gender inequality and gender bias against senior female academics working in cancer research in Europe.
+
+image: ../../contents/photos/img/IrishNews_gender.jpg
+
+card_style: "summary_large_image"
+params:
+  tag: "Gender"
+  date: "2023-10-11"
+author: "Aedin Culhane"
+date: "2023-10-11"
+categories:
+  - Cancer Research
+  - Gender
+---
+
+![](/contents/photos/img/IrishNews_gender.jpg)
+
+The findings have just been published today in the [European Journal of Cancer](https://www.sciencedirect.com/science/article/pii/S0959804923006470?dgcid=author).
+
+The study, from researchers of the All-Island e-Health Hub for Cancer, which is led by Queen's University Belfast and University of Limerick, King's College London, UK, Ghent University, Belgium, the International Brain Tumour Alliance and the European Cancer Organisation looked at published cancer research papers from the 28 EU Member States (plus Iceland, Norway, Switzerland and the United Kingdom (UK), from two specific years (2009 and 2019) and used these data to determine female cancer research participation and female cancer research leadership over that decade.
+
+It found whilst there was a slight increase in overall female participation in cancer research between 2009 and 2019 (as judged by percentage of females as authors in cancer research papers, which rose from 42% to 49%), female research leadership tended to stall, only rising from a low of 24% to 34% in the study period.
+
+The study also found that female cancer research leadership was highest in the majority of Eastern European countries and in Scandinavia, compared to countries in central Europe. However, when cancer researchers from central European countries worked abroad, the percentage of females became similar to that of their host countries.
+
+The research suggests that female cancer research participation is heavily influenced by availability and relative cost of child-care, which is more favourable in Scandinavia and Eastern Europe than in central/western Europe. These countries are also generous in the provision of maternity and/or paternity leave for new parents.
+
+Speaking about the work, Irish Minister for Further Education, Research, Innovation and Science Simon Harris T.D. said "This research is very timely and impactful. It highlights the importance of gender equality in cancer research. We recognise the need to address gender balance in science and do more to address this issue. I am committed to increasing female participation and leadership across the higher education sector, as such I was delighted to introduce the Senior Academic Leadership Initiative (SALI), which is allowing us to ensure that enhanced female senior academic leadership is delivered within higher education across Ireland. The research highlighted here, supported through the North South Research Programme, shows that Ireland is heading in the right direction, but emphasises that there is still work to be done to achieve gender equity."
+
+See more at the [Irish News](https://www.irishnews.com/news/republicofirelandnews/2023/10/12/news/all-ireland_group_highlights_hurdles_facing_women_across_europe_working_in_cancer_research-3691358/) [QUB News](https://www.qub.ac.uk/News/Allnews/featured-research/new-study-highlights-significant-gender-inequality-bias-cancer-research.html) and [UL News](https://www.ul.ie/news/ul-academic-hails-extremely-important-study-on-gender-inequality-in-cancer-research)
+
+### Related articles on gender and cancer
+
+Ginsburg O, Vanderpuye V, Beddoe AM, Bhoo-Pathy N, Bray F, Caduff C, Florez N, Fadhil I, Hammad N, Heidari S, Kataria I, Kumar S, Liebermann E, Moodley J, Mutebi M, Mukherji D, Nugent R, So WKW, Soto-Perez-de-Celis E, Unger-Saldaña K, Allman G, Bhimani J, Bourlon MT, Eala MAB, Hovmand PS, Kong YC, Menon S, Taylor CD, Soerjomataram I. [Women, power, and cancer: a Lancet Commission](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(23)01701-4/fulltext). Lancet. 2023 Sep 25:S0140-6736(23)01701-4. doi: 10.1016/S0140-6736(23)01701-4. PMID: 37774725.
+
+This article was featured in the following news report in the Guardian ['Feminist approach' to cancer could save lives of 800,000 women a year](https://www.theguardian.com/society/2023/sep/26/feminist-approach-cancer-save-lives-800000-women)
