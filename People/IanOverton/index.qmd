@@ -13,7 +13,6 @@ about:
       href: https://pure.qub.ac.uk/en/persons/ian-overton
     - icon: envelope
       text: email
-      href: mailto:
       
 description: Reader, School of Medicine, Dentistry and Biomedical Sciences
 Patrick G Johnston Centre for Cancer Research, Queens University, Belfast

@@ -24,7 +24,7 @@ website:
         aria-label: GitHub
       - icon: envelope
         text: email us
-        href: mailto:ehealth@ul.ie
+
         
     left:
       - text: "Home"
@@ -32,16 +32,9 @@ website:
       - text: "About"
         file: about.qmd 
       - text: "People"
-<<<<<<< HEAD
         menu: 
           - people.qmd
           - partners.qmd
-            
-=======
-        file: people.qmd
-      - text: "Partners"    
-        file: Partners.qmd
->>>>>>> 54f3602cfb065d623ba7f194867baf4ad028e701
       - text: "Projects"
         file: projects.qmd
       - text: "News"

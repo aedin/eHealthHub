@@ -16,7 +16,7 @@ categories:
   - OHDSI
 ---
 
-![](../../contents/photos/img/2022_OHDSI_meeting_WashingtonDC.jpg)
+![](/contents/photos/img/2022_OHDSI_meeting_WashingtonDC.jpg)
 
 In Oct 2022, the eHealthHub lead Prof Aedin Culhane attended the 2022 OHDSI Symposium, Oct. 14-16, Bethesda, Washington DC. Prof Culhane met with OHDSI oncology collaborators
 

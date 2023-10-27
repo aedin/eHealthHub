@@ -8,12 +8,12 @@ about:
   links:
     - icon: envelope
       text: email us
-      href: mailto:ehealth@ul.ie
+      href: ehealth@ul.ie
 ---
 
 ## Projects
 
-<<<<<<< HEAD
+
 =======
 
 Coming soon

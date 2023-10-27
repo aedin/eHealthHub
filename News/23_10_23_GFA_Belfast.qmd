@@ -3,7 +3,7 @@ title: " All-Island study highlights the cancer legacy of the Good Friday Agreem
 description: 
 New all-island research led by Queen’s University Belfast highlights the health and economic impact of the Good Friday Agreement on cancer across the island of Ireland in the last 25 years.
 
-image: ../../contents/photos/img/25th_Belfast.jpeg
+image: "../../contents/photos/img/2023_Belfast Photo 1.jpeg"
 
 card_style: "summary_large_image"
 params:
@@ -18,7 +18,7 @@ categories:
   - All Island
 ---
 
-![](../../contents/photos/img/2023_Belfast%20Photo%201.jpeg)
+![](/contents/photos/img/2023_Belfast Photo 1.jpeg)
 
 The work, involving researchers from Northern Ireland, Ireland, the UK and the U.S. has been published today in the [Journal of Cancer Policy](https://doi.org/10.1016/j.jcpo.2023.100448), the number one cancer policy journal globally.
 
