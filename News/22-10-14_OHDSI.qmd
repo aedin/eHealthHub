@@ -3,7 +3,7 @@ title: "eHealth-Hub at the OHDSI 2022 meeting"
 description: 
   Prof Aedin Culhane attended the OHDSI 2022 conference in Washington DC
  
-image: "../../contents/photos/img/2022_OHDSI_meeting_WashingtonDC.jpg"
+image: ../../contents/photos/img/2022_OHDSI_meeting_WashingtonDC.jpg
 card_style: "summary_large_image"
 params:
   tag: "OHDSI"

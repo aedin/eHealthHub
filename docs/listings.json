@@ -1,13 +1,11 @@
 [
   {
-    "listing": "/events.html",
-    "items": []
-  },
-  {
     "listing": "/news.html",
     "items": [
-      "/News/PhD_Advert.html",
-      "/News/08_05_23_25th-Belfast.html",
+      "/News/23_10_23_GFA_Belfast.html",
+      "/News/Gender.html",
+      "/News/23_05_12_PhD_Advert.html",
+      "/News/23_05_08_25th-Belfast.html",
       "/News/25-04-23_LDCRC_BuildingTogether.html",
       "/News/23-04-20_DELL_Technologies.html",
       "/News/22-11-30_HRB.html",
@@ -19,19 +17,25 @@
     ]
   },
   {
-    "listing": "/people.html",
-    "items": [
-      "/People/AedinCulhane/index.html",
-      "/People/MarkLawlor/index.html",
-      "/People/RuthClifford/index.html"
-    ]
+    "listing": "/talks.html",
+    "items": []
+  },
+  {
+    "listing": "/events.html",
+    "items": []
   },
   {
     "listing": "/publications.html",
     "items": []
   },
   {
-    "listing": "/talks.html",
-    "items": []
+    "listing": "/people.html",
+    "items": [
+      "/People/KatieCrowley/index.html",
+      "/People/AedinCulhane/index.html",
+      "/People/IanOverton/index.html",
+      "/People/MarkLawlor/index.html",
+      "/People/RuthClifford/index.html"
+    ]
   }
 ]

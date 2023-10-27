@@ -15,10 +15,12 @@ about:
       text: email
       href: mailto:ruth.clifford1 dot hse.ie
       
-description: 
-  Consultant Haematologist, University Hospital Limerick
-image: ../../contents/photos/people/ruth-clifford.jpg
+image: '../../contents/photos/people/RuthClifford.jpg'
+
 card_style: "summary_large_image"
+      
+description: Consultant Haematologist, University Hospital Limerick
+
 categories:
   - Project Leader
   - Limerick
@@ -29,7 +31,7 @@ categories:
 
 Prof. Ruth Clifford is a Consultant Haematologist at UHL since November 2016. Her clinical practice is in malignant haematology, in particular, the care of patients with lymphoid malignancies including chronic lymphocytic leukaemia (CLL). Key areas of research include: the study of genetic changes driving the development of blood cancers and factors leading to relapse and resistant disease. In addition, Ruth has an interest in innovating diagnostic pathways for patients, applying novel tech and AI tools, to aid accurate and timely diagnosis of blood cancers and to improve patient acquisition to clinical trials.
 
-Ruth received her medical degree from NUI Galway in 2002 and began her specialist haematology training in Ireland in 2006 later transferring to Oxford. She was awarded a Cancer Research UK Fellowship to undertake a PhD at the University of Oxford. Her doctoral research focused on the applications of Next Generation Sequencing Technologies in Leukaemia. A key finding of this work was the discovery of a novel gene mutation in *SAMHD1* that predicts chemotherapy resistance in CLL. She has published with numerous UK and European CLL groups and continues to maintain active links in the haematology genomics research field.
+Ruth received her medical degree from NUI Galway in 2002 and began her specialist haematology training in Ireland in 2006 later transferring to Oxford. She was awarded a Cancer Research UK Fellowship to undertake a PhD at the University of Oxford. Her doctoral research focused on the applications of Next Generation Sequencing Technologies in Leukaemia. A key finding of this work was the discovery of a novel gene mutation in *SAMHD1* that predicts chemotherapy resistance in CLL. She has published with numerous UK and European CLL groups and continues to maintain active links in the haematology genomics research field.
 
 Ruth is the translational co-chair of the Haematology and Lymphoma DSSG of Cancer Trials Ireland clinical trial network. She is an Investigator with the Blood Cancer Network Ireland and a member of the molecular advisory group for the National Cancer Control Programme that guides the development of a national infrastructure for partner diagnostics in Haemato-Oncology.
 
@@ -37,4 +39,4 @@ Within UL, Ruth is a pillar lead for the Basic Sciences Pillar of ULCan and a me
 
 Funded by
 
-[![HEA North South Program](contents/logo/NSRP%20Logo%20(Final).png){#HEA_logo width="300"}](hea.ie)
+[![HEA North SouthProgram](contents/logo/NSRP%20Logo%20(Final).png){#HEA_logo width="300"}](hea.ie)

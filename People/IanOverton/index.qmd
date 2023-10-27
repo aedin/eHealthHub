@@ -7,16 +7,16 @@ about:
   links:
     - icon: twitter
       text: twitter
-      href:
+      href: https://twitter.com/IOvertonScience
     - icon: house-door
       text: Homepage
       href: https://pure.qub.ac.uk/en/persons/ian-overton
     - icon: envelope
       text: email
       
-description: Reader, School of Medicine, Dentistry and Biomedical Sciences
-Patrick G Johnston Centre for Cancer Research, Queens University, Belfast
-image: ../../contents/photos/people/ruth-clifford.jpg
+description: 
+  Reader, School of Medicine, Dentistry and Biomedical Sciences, Patrick G Johnston Centre for Cancer Research, Queens University, Belfast
+image: ../../contents/photos/people/ianOverton.png
 card_style: "summary_large_image"
 categories:
   - Project Supervisor

@@ -2,7 +2,7 @@
 title: "LimerickPost"
 description: Limerick and Belfast researchers tackle ‘future cancer epidemic’ from the Limerick Post  
  
-image: "../../contents/photos/img/2022_Apr_LimerickPost_Update.png"
+image: ../../contents/photos/img/2022_Apr_LimerickPost_Update.png
 
 card_style: "summary_large_image"
 params:

@@ -8,7 +8,7 @@ about:
   links:
       - icon: envelope
         text: email us
-        email: ehealth@ul.ie
+        href: mailto:ehealth@ul.ie
 ---
 
 ## Partnerships

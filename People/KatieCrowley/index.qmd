@@ -13,17 +13,15 @@ about:
       href: https://github.com
     - icon: linkedin
       text: LinkedIn
-      href:  https://www.linkedin.com/in/katiecrowley/?originalSubdomain=ie
+      href: https://www.linkedin.com/in/katiecrowley/
     - icon: house-door
       text: Homepage
-      href: 
+
     - icon: envelope
       text: email
-      href: 
-description:
-Associate Professor Computer Science & Health Informatics 
-Funded Investigator @ Lero
-University of Limerick
+
+description: Associate Professor Computer Science & Health Informatics, Funded Investigator, Lero, University of Limerick
+
 image: ../../contents/photos/people/KatieCrowley.png
 card_style: "summary_large_image"
 categories:
@@ -34,6 +32,7 @@ categories:
 
 ## Prof Katie Crowley
 
-Associate Professor Computer Science & Health Informatics \| Funded Investigator \@ Lero
+Associate Professor Computer Science & Health Informatics, Funded Investigator Lero
 
-[LinkedIn](https://www.linkedin.com/in/katiecrowley/?originalSubdomain=ie)
+[LinkedIn](https://www.linkedin.com/in/katiecrowley/)
+
