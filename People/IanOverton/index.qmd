@@ -1,0 +1,34 @@
+---
+title: Prof Ian Overton
+about:
+  template: solana
+  image-width: 6em
+  image-shape: round
+  links:
+    - icon: twitter
+      text: twitter
+      href:
+    - icon: house-door
+      text: Homepage
+      href: https://pure.qub.ac.uk/en/persons/ian-overton
+    - icon: envelope
+      text: email
+      href: mailto:
+      
+description: Reader, School of Medicine, Dentistry and Biomedical Sciences
+Patrick G Johnston Centre for Cancer Research, Queens University, Belfast
+image: ../../contents/photos/people/ruth-clifford.jpg
+card_style: "summary_large_image"
+categories:
+  - Project Supervisor
+  - Belfast
+  - QUB
+---
+
+## Dr Ian Overton
+
+[QUB link](https://pure.qub.ac.uk/en/persons/ian-overton)
+
+Funded by
+
+[![HEA North South Program](contents/logo/NSRP%20Logo%20(Final).png){#HEA_logo width="300"}](hea.ie)
