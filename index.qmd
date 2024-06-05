@@ -5,11 +5,9 @@ about:
   image: contents/logo/eHealthHub_logo.png
   image-width: 12em
   image-shape: round
-extra_javascript:
-    - js/image-carousel.js 
 ---
 
-# Unified harmonized health data for network cancer research studies
+### Unified harmonized health data for network cancer research studies
 
 The all-island eHealth Hub for Cancer is an all-island partnership on the island of Ireland that is building software and data platforms using best practice open science international health data standards to unlock and share health data, to grow clinical cancer research and improve cancer care.
 

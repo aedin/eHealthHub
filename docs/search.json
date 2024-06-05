@@ -1,54 +1,80 @@
 [
   {
-    "objectID": "People/MarkLawlor/index.html",
-    "href": "People/MarkLawlor/index.html",
-    "title": "Prof Mark Lawler",
+    "objectID": "People/AedinCulhane/index.html",
+    "href": "People/AedinCulhane/index.html",
+    "title": "Prof Aedin Culhane",
     "section": "",
-    "text": "Professor Lawler is an internationally renowned scientist with over 30 years experience in cancer research, who is passionate about translating his research for the benefit of patients and society.\nHe has received numerous awards including the prestigious 2018 European Health Award and he is frequently invited to speak at top-tier international conferences.\nHe was architect of the European Cancer Patient’s Bill of Rights, which he launched with patients and health professionals in the European Parliament on World Cancer Day 2014. The Bill of Rights, translated into 17 European languages and adopted in 25 European countries, is a beacon of hope for cancer patients Europe-wide, leading to development of the 70:35 Vision - 70% average survival for cancer patients by 2035. This Vision has been adopted by the European CanCer Organisation, the largest multidisciplinary cancer organisation in Europe, and is influencing health policy in many European countries.\nHis research in colorectal cancer (CRC) has increased our understanding of this common disease. His leadership of Bowel Cancer UK’s Critical Research Gaps in Colorectal Cancer Initiativewill influence CRC research activity/policy over the next decade.\nProfessor Lawler is Associate Director of Health Data Research Wales-Northern Ireland and Scientific Director of DATA-CAN, the UK Health Data Research Hub for Cancer. His leadership in heath data research, with a particular emphasis on cancer has been world leading with key publications in the premier scientific and medical journals.\nHis recent work on Coronavirus and cancer, highlighting how the current COVID-19 pandemic may lead to a future cancer epidemic, has received international recognition, with over 300 media stories and publications in key international scientific journals\nProfessor Lawler is also a passionate advocate for the development of outreach activities, fostering increased public understanding of science and medicine.",
+    "text": "Aedín Culhane is a Professor of Biomedical Sciences (Cancer Genomics) in the UL School of Medicine. She is a computational oncologist with expertise in multi-omics data integration, statistical genomics, clinical bioinformatics and genomics in oncology. She has over 20 years’ experience in cancer genomics, of which over 15 years were in the Dana-Farber Cancer Institute and Harvard TH Chan School of Public Health in Boston, USA. Her recent research focuses on algorithm development and integrative data of single cell molecular data in cancer to identify molecules that regulate and can be targeted during tumour development, progression, drug response and resistance. She is a member of the Human Cell Atlas (https://www.humancellatlas.org ) project. She is a leader in the Bioconductor (www.bioconductor.org) community, a global open source, open development software in R for genomics and an advocate for open source science.",
     "crumbs": [
       "Home",
       "People",
       "People",
-      "Prof Mark Lawler"
+      "Prof Aedin Culhane"
     ]
   },
   {
-    "objectID": "People/MarkLawlor/index.html#prof-mark-lawler",
-    "href": "People/MarkLawlor/index.html#prof-mark-lawler",
-    "title": "Prof Mark Lawler",
+    "objectID": "People/AedinCulhane/index.html#prof-aedin-culhane",
+    "href": "People/AedinCulhane/index.html#prof-aedin-culhane",
+    "title": "Prof Aedin Culhane",
     "section": "",
-    "text": "Professor Lawler is an internationally renowned scientist with over 30 years experience in cancer research, who is passionate about translating his research for the benefit of patients and society.\nHe has received numerous awards including the prestigious 2018 European Health Award and he is frequently invited to speak at top-tier international conferences.\nHe was architect of the European Cancer Patient’s Bill of Rights, which he launched with patients and health professionals in the European Parliament on World Cancer Day 2014. The Bill of Rights, translated into 17 European languages and adopted in 25 European countries, is a beacon of hope for cancer patients Europe-wide, leading to development of the 70:35 Vision - 70% average survival for cancer patients by 2035. This Vision has been adopted by the European CanCer Organisation, the largest multidisciplinary cancer organisation in Europe, and is influencing health policy in many European countries.\nHis research in colorectal cancer (CRC) has increased our understanding of this common disease. His leadership of Bowel Cancer UK’s Critical Research Gaps in Colorectal Cancer Initiativewill influence CRC research activity/policy over the next decade.\nProfessor Lawler is Associate Director of Health Data Research Wales-Northern Ireland and Scientific Director of DATA-CAN, the UK Health Data Research Hub for Cancer. His leadership in heath data research, with a particular emphasis on cancer has been world leading with key publications in the premier scientific and medical journals.\nHis recent work on Coronavirus and cancer, highlighting how the current COVID-19 pandemic may lead to a future cancer epidemic, has received international recognition, with over 300 media stories and publications in key international scientific journals\nProfessor Lawler is also a passionate advocate for the development of outreach activities, fostering increased public understanding of science and medicine.",
+    "text": "Aedín Culhane is a Professor of Biomedical Sciences (Cancer Genomics) in the UL School of Medicine. She is a computational oncologist with expertise in multi-omics data integration, statistical genomics, clinical bioinformatics and genomics in oncology. She has over 20 years’ experience in cancer genomics, of which over 15 years were in the Dana-Farber Cancer Institute and Harvard TH Chan School of Public Health in Boston, USA. Her recent research focuses on algorithm development and integrative data of single cell molecular data in cancer to identify molecules that regulate and can be targeted during tumour development, progression, drug response and resistance. She is a member of the Human Cell Atlas (https://www.humancellatlas.org ) project. She is a leader in the Bioconductor (www.bioconductor.org) community, a global open source, open development software in R for genomics and an advocate for open source science.",
     "crumbs": [
       "Home",
       "People",
       "People",
-      "Prof Mark Lawler"
+      "Prof Aedin Culhane"
     ]
   },
   {
-    "objectID": "People/IanOverton/index.html",
-    "href": "People/IanOverton/index.html",
-    "title": "Prof Ian Overton",
+    "objectID": "People/ShirinMoghaddam/index.html",
+    "href": "People/ShirinMoghaddam/index.html",
+    "title": "Dr Shirin Moghaddam",
     "section": "",
-    "text": "QUB link",
+    "text": "Dr Shirin Moghaddam is a Lecturer in Statistics & Data Science in the Department of Mathematics and Statistics in the University of Limerick. Shirin holds a BSc in Statistics and an MSc in Mathematical Statistics from the University of Tehran. She completed her PhD in Statistics at the University of Galway (NUIG) on developing Bayesian imputation approaches in survival analysis. Following her PhD, she worked as a postdoctoral research fellow in the Conway Institute at University College Dublin on an interdisciplinary project on developing prediction models for prostate cancer progression. She was a lecturer at University College Cork before taking up her current position at the University of Limerick.\nHer primary research interests are Survival analysis, Bayesian modelling and Machine learning approaches, in particular, their applications in cancer research. She collaborates nationally and internationally on modelling time-to-event data and developing prediction models in medical research. She is the chair of the Young Statisticians’ Section of the Irish Statistical Association and also a member of Cancer Trials Ireland.\nResearch Interests\n\nSurvival Analysis\nBayesian Statistics\nStatistical Modelling\nMachine Learning\nClinical Decision Making\nTranslational Statistics\nCancer Research",
     "crumbs": [
       "Home",
       "People",
       "People",
-      "Prof Ian Overton"
+      "Dr Shirin Moghaddam"
     ]
   },
   {
-    "objectID": "People/IanOverton/index.html#dr-ian-overton",
-    "href": "People/IanOverton/index.html#dr-ian-overton",
-    "title": "Prof Ian Overton",
+    "objectID": "People/ShirinMoghaddam/index.html#dr-shirin-moghaddam",
+    "href": "People/ShirinMoghaddam/index.html#dr-shirin-moghaddam",
+    "title": "Dr Shirin Moghaddam",
     "section": "",
-    "text": "QUB link",
+    "text": "Dr Shirin Moghaddam is a Lecturer in Statistics & Data Science in the Department of Mathematics and Statistics in the University of Limerick. Shirin holds a BSc in Statistics and an MSc in Mathematical Statistics from the University of Tehran. She completed her PhD in Statistics at the University of Galway (NUIG) on developing Bayesian imputation approaches in survival analysis. Following her PhD, she worked as a postdoctoral research fellow in the Conway Institute at University College Dublin on an interdisciplinary project on developing prediction models for prostate cancer progression. She was a lecturer at University College Cork before taking up her current position at the University of Limerick.\nHer primary research interests are Survival analysis, Bayesian modelling and Machine learning approaches, in particular, their applications in cancer research. She collaborates nationally and internationally on modelling time-to-event data and developing prediction models in medical research. She is the chair of the Young Statisticians’ Section of the Irish Statistical Association and also a member of Cancer Trials Ireland.\nResearch Interests\n\nSurvival Analysis\nBayesian Statistics\nStatistical Modelling\nMachine Learning\nClinical Decision Making\nTranslational Statistics\nCancer Research",
     "crumbs": [
       "Home",
       "People",
       "People",
-      "Prof Ian Overton"
+      "Dr Shirin Moghaddam"
+    ]
+  },
+  {
+    "objectID": "People/RuthClifford/index.html",
+    "href": "People/RuthClifford/index.html",
+    "title": "Prof Ruth Clifford",
+    "section": "",
+    "text": "Prof. Ruth Clifford is a Consultant Haematologist at UHL since November 2016. Her clinical practice is in malignant haematology, in particular, the care of patients with lymphoid malignancies including chronic lymphocytic leukaemia (CLL). Key areas of research include: the study of genetic changes driving the development of blood cancers and factors leading to relapse and resistant disease. In addition, Ruth has an interest in innovating diagnostic pathways for patients, applying novel tech and AI tools, to aid accurate and timely diagnosis of blood cancers and to improve patient acquisition to clinical trials.\nRuth received her medical degree from NUI Galway in 2002 and began her specialist haematology training in Ireland in 2006 later transferring to Oxford. She was awarded a Cancer Research UK Fellowship to undertake a PhD at the University of Oxford. Her doctoral research focused on the applications of Next Generation Sequencing Technologies in Leukaemia. A key finding of this work was the discovery of a novel gene mutation in SAMHD1 that predicts chemotherapy resistance in CLL. She has published with numerous UK and European CLL groups and continues to maintain active links in the haematology genomics research field.\nRuth is the translational co-chair of the Haematology and Lymphoma DSSG of Cancer Trials Ireland clinical trial network. She is an Investigator with the Blood Cancer Network Ireland and a member of the molecular advisory group for the National Cancer Control Programme that guides the development of a national infrastructure for partner diagnostics in Haemato-Oncology.\nWithin UL, Ruth is a pillar lead for the Basic Sciences Pillar of ULCan and a member of the Limerick DCRC Development Committee. Ruth has a number of active collaborative research projects across the ULCan pillars and is keen to progress links between ULHG and UL on cutting edge cancer research for the benefit of the Mid West and the broader cancer community.",
+    "crumbs": [
+      "Home",
+      "People",
+      "People",
+      "Prof Ruth Clifford"
+    ]
+  },
+  {
+    "objectID": "People/RuthClifford/index.html#prof-ruth-clifford",
+    "href": "People/RuthClifford/index.html#prof-ruth-clifford",
+    "title": "Prof Ruth Clifford",
+    "section": "",
+    "text": "Prof. Ruth Clifford is a Consultant Haematologist at UHL since November 2016. Her clinical practice is in malignant haematology, in particular, the care of patients with lymphoid malignancies including chronic lymphocytic leukaemia (CLL). Key areas of research include: the study of genetic changes driving the development of blood cancers and factors leading to relapse and resistant disease. In addition, Ruth has an interest in innovating diagnostic pathways for patients, applying novel tech and AI tools, to aid accurate and timely diagnosis of blood cancers and to improve patient acquisition to clinical trials.\nRuth received her medical degree from NUI Galway in 2002 and began her specialist haematology training in Ireland in 2006 later transferring to Oxford. She was awarded a Cancer Research UK Fellowship to undertake a PhD at the University of Oxford. Her doctoral research focused on the applications of Next Generation Sequencing Technologies in Leukaemia. A key finding of this work was the discovery of a novel gene mutation in SAMHD1 that predicts chemotherapy resistance in CLL. She has published with numerous UK and European CLL groups and continues to maintain active links in the haematology genomics research field.\nRuth is the translational co-chair of the Haematology and Lymphoma DSSG of Cancer Trials Ireland clinical trial network. She is an Investigator with the Blood Cancer Network Ireland and a member of the molecular advisory group for the National Cancer Control Programme that guides the development of a national infrastructure for partner diagnostics in Haemato-Oncology.\nWithin UL, Ruth is a pillar lead for the Basic Sciences Pillar of ULCan and a member of the Limerick DCRC Development Committee. Ruth has a number of active collaborative research projects across the ULCan pillars and is keen to progress links between ULHG and UL on cutting edge cancer research for the benefit of the Mid West and the broader cancer community.",
+    "crumbs": [
+      "Home",
+      "People",
+      "People",
+      "Prof Ruth Clifford"
     ]
   },
   {
@@ -279,29 +305,18 @@
     "href": "contributing.html",
     "title": "Contributing",
     "section": "",
-    "text": "If you would like your data included in our studies, please contact us.\n\n\n\n\nPatient & Public Involvement\nPPI (link to the Irish Cancer Society)\nPeople with cancer can interact with research, through participation, engagement, and involvement.\n\nParticipation: A person with cancer may be enroll in a research study (clinical trial).\nEngagement: Patients can help communicate with other patients and the public. You could work in communication and sharing of research information, for example, at science festivals, public talks, television programmes, or radio.\nInvolvement: People with cancer can be involved at every stage of the research process, from conceptualisation to dissemination to ensure the perspectives of people with cancer are fully considered during the entire research cycle.\n\nClinical Trials Ireland\nCancer trials test new and more effective ways to prevent, diagnose, and treat cancer. Trials can test new drugs or combinations of drugs that are already used in the treatment of other diseases. Trials can also involve new ways of treating or diagnosing cancer. Unlike non-cancer clinical trials, placebo are rarely used in cancer. Find out more about clinical trials in Ireland or search for a clinical trial in ireland, or in the EU, or USA.\n\n\n\n\n\nEmail us ehealth@ul.ie",
+    "text": "There are many ways to contribute to cancer research and to the eHealth-Hub for Cancer.\n\n\nIf you would like your data included in our studies, please contact us.\n\n\n\nPatient and public involvement (PPI) in our research is welcome. People with cancer can interact with research, through participation, engagement, and involvement.\n\nParticipation: People with cancer may enroll or partcipate in a clinical research study (clinical trial). We hope our study will create data resources, that facilitate and support more clinical trials on the island of Ireland.\nEngagement: Patients can help communicate with other patients and the public. You could work in communication and sharing of research information, for example, at science festivals, public talks, television programmes, or radio.\nInvolvement: People with cancer can be involved at every stage of the research process, from conceptualisation to dissemination to ensure the perspectives of people with cancer are fully considered during the entire research cycle.\nWhat is a Clinical Trial?\nCancer clinical trials test new or more effective ways to prevent, diagnose, and treat cancer. Trials can test new drugs or combinations of drugs that are already used in the treatment of other diseases. Trials can also involve new ways of treating or diagnosing cancer. Unlike non-cancer clinical trials, placebo are rarely used in cancer. Find out more about clinical trials in Ireland or search for a clinical trial in ireland, or in the EU, or USA.",
     "crumbs": [
       "Home",
       "Contributing"
     ]
   },
   {
-    "objectID": "contributing.html#clinicians-and-researchers",
-    "href": "contributing.html#clinicians-and-researchers",
+    "objectID": "contributing.html#contributing-to-the-ehealthhub-for-cancer",
+    "href": "contributing.html#contributing-to-the-ehealthhub-for-cancer",
     "title": "Contributing",
     "section": "",
-    "text": "If you would like your data included in our studies, please contact us.",
-    "crumbs": [
-      "Home",
-      "Contributing"
-    ]
-  },
-  {
-    "objectID": "contributing.html#people-with-cancer",
-    "href": "contributing.html#people-with-cancer",
-    "title": "Contributing",
-    "section": "",
-    "text": "Patient & Public Involvement\nPPI (link to the Irish Cancer Society)\nPeople with cancer can interact with research, through participation, engagement, and involvement.\n\nParticipation: A person with cancer may be enroll in a research study (clinical trial).\nEngagement: Patients can help communicate with other patients and the public. You could work in communication and sharing of research information, for example, at science festivals, public talks, television programmes, or radio.\nInvolvement: People with cancer can be involved at every stage of the research process, from conceptualisation to dissemination to ensure the perspectives of people with cancer are fully considered during the entire research cycle.\n\nClinical Trials Ireland\nCancer trials test new and more effective ways to prevent, diagnose, and treat cancer. Trials can test new drugs or combinations of drugs that are already used in the treatment of other diseases. Trials can also involve new ways of treating or diagnosing cancer. Unlike non-cancer clinical trials, placebo are rarely used in cancer. Find out more about clinical trials in Ireland or search for a clinical trial in ireland, or in the EU, or USA.",
+    "text": "There are many ways to contribute to cancer research and to the eHealth-Hub for Cancer.\n\n\nIf you would like your data included in our studies, please contact us.\n\n\n\nPatient and public involvement (PPI) in our research is welcome. People with cancer can interact with research, through participation, engagement, and involvement.\n\nParticipation: People with cancer may enroll or partcipate in a clinical research study (clinical trial). We hope our study will create data resources, that facilitate and support more clinical trials on the island of Ireland.\nEngagement: Patients can help communicate with other patients and the public. You could work in communication and sharing of research information, for example, at science festivals, public talks, television programmes, or radio.\nInvolvement: People with cancer can be involved at every stage of the research process, from conceptualisation to dissemination to ensure the perspectives of people with cancer are fully considered during the entire research cycle.\nWhat is a Clinical Trial?\nCancer clinical trials test new or more effective ways to prevent, diagnose, and treat cancer. Trials can test new drugs or combinations of drugs that are already used in the treatment of other diseases. Trials can also involve new ways of treating or diagnosing cancer. Unlike non-cancer clinical trials, placebo are rarely used in cancer. Find out more about clinical trials in Ireland or search for a clinical trial in ireland, or in the EU, or USA.",
     "crumbs": [
       "Home",
       "Contributing"
@@ -311,8 +326,8 @@
     "objectID": "contributing.html#contact-us",
     "href": "contributing.html#contact-us",
     "title": "Contributing",
-    "section": "",
-    "text": "Email us ehealth@ul.ie",
+    "section": "Contact us",
+    "text": "Contact us\nEmail us ehealth@ul.ie",
     "crumbs": [
       "Home",
       "Contributing"
@@ -418,81 +433,55 @@
     ]
   },
   {
-    "objectID": "People/RuthClifford/index.html",
-    "href": "People/RuthClifford/index.html",
-    "title": "Prof Ruth Clifford",
+    "objectID": "People/IanOverton/index.html",
+    "href": "People/IanOverton/index.html",
+    "title": "Prof Ian Overton",
     "section": "",
-    "text": "Prof. Ruth Clifford is a Consultant Haematologist at UHL since November 2016. Her clinical practice is in malignant haematology, in particular, the care of patients with lymphoid malignancies including chronic lymphocytic leukaemia (CLL). Key areas of research include: the study of genetic changes driving the development of blood cancers and factors leading to relapse and resistant disease. In addition, Ruth has an interest in innovating diagnostic pathways for patients, applying novel tech and AI tools, to aid accurate and timely diagnosis of blood cancers and to improve patient acquisition to clinical trials.\nRuth received her medical degree from NUI Galway in 2002 and began her specialist haematology training in Ireland in 2006 later transferring to Oxford. She was awarded a Cancer Research UK Fellowship to undertake a PhD at the University of Oxford. Her doctoral research focused on the applications of Next Generation Sequencing Technologies in Leukaemia. A key finding of this work was the discovery of a novel gene mutation in SAMHD1 that predicts chemotherapy resistance in CLL. She has published with numerous UK and European CLL groups and continues to maintain active links in the haematology genomics research field.\nRuth is the translational co-chair of the Haematology and Lymphoma DSSG of Cancer Trials Ireland clinical trial network. She is an Investigator with the Blood Cancer Network Ireland and a member of the molecular advisory group for the National Cancer Control Programme that guides the development of a national infrastructure for partner diagnostics in Haemato-Oncology.\nWithin UL, Ruth is a pillar lead for the Basic Sciences Pillar of ULCan and a member of the Limerick DCRC Development Committee. Ruth has a number of active collaborative research projects across the ULCan pillars and is keen to progress links between ULHG and UL on cutting edge cancer research for the benefit of the Mid West and the broader cancer community.",
+    "text": "QUB link",
     "crumbs": [
       "Home",
       "People",
       "People",
-      "Prof Ruth Clifford"
+      "Prof Ian Overton"
     ]
   },
   {
-    "objectID": "People/RuthClifford/index.html#prof-ruth-clifford",
-    "href": "People/RuthClifford/index.html#prof-ruth-clifford",
-    "title": "Prof Ruth Clifford",
+    "objectID": "People/IanOverton/index.html#dr-ian-overton",
+    "href": "People/IanOverton/index.html#dr-ian-overton",
+    "title": "Prof Ian Overton",
     "section": "",
-    "text": "Prof. Ruth Clifford is a Consultant Haematologist at UHL since November 2016. Her clinical practice is in malignant haematology, in particular, the care of patients with lymphoid malignancies including chronic lymphocytic leukaemia (CLL). Key areas of research include: the study of genetic changes driving the development of blood cancers and factors leading to relapse and resistant disease. In addition, Ruth has an interest in innovating diagnostic pathways for patients, applying novel tech and AI tools, to aid accurate and timely diagnosis of blood cancers and to improve patient acquisition to clinical trials.\nRuth received her medical degree from NUI Galway in 2002 and began her specialist haematology training in Ireland in 2006 later transferring to Oxford. She was awarded a Cancer Research UK Fellowship to undertake a PhD at the University of Oxford. Her doctoral research focused on the applications of Next Generation Sequencing Technologies in Leukaemia. A key finding of this work was the discovery of a novel gene mutation in SAMHD1 that predicts chemotherapy resistance in CLL. She has published with numerous UK and European CLL groups and continues to maintain active links in the haematology genomics research field.\nRuth is the translational co-chair of the Haematology and Lymphoma DSSG of Cancer Trials Ireland clinical trial network. She is an Investigator with the Blood Cancer Network Ireland and a member of the molecular advisory group for the National Cancer Control Programme that guides the development of a national infrastructure for partner diagnostics in Haemato-Oncology.\nWithin UL, Ruth is a pillar lead for the Basic Sciences Pillar of ULCan and a member of the Limerick DCRC Development Committee. Ruth has a number of active collaborative research projects across the ULCan pillars and is keen to progress links between ULHG and UL on cutting edge cancer research for the benefit of the Mid West and the broader cancer community.",
+    "text": "QUB link",
     "crumbs": [
       "Home",
       "People",
       "People",
-      "Prof Ruth Clifford"
+      "Prof Ian Overton"
     ]
   },
   {
-    "objectID": "People/ShirinMoghaddam/index.html",
-    "href": "People/ShirinMoghaddam/index.html",
-    "title": "Dr Shirin Moghaddam",
+    "objectID": "People/MarkLawlor/index.html",
+    "href": "People/MarkLawlor/index.html",
+    "title": "Prof Mark Lawler",
     "section": "",
-    "text": "Dr Shirin Moghaddam is a Lecturer in Statistics & Data Science in the Department of Mathematics and Statistics in the University of Limerick. Shirin holds a BSc in Statistics and an MSc in Mathematical Statistics from the University of Tehran. She completed her PhD in Statistics at the University of Galway (NUIG) on developing Bayesian imputation approaches in survival analysis. Following her PhD, she worked as a postdoctoral research fellow in the Conway Institute at University College Dublin on an interdisciplinary project on developing prediction models for prostate cancer progression. She was a lecturer at University College Cork before taking up her current position at the University of Limerick.\nHer primary research interests are Survival analysis, Bayesian modelling and Machine learning approaches, in particular, their applications in cancer research. She collaborates nationally and internationally on modelling time-to-event data and developing prediction models in medical research. She is the chair of the Young Statisticians’ Section of the Irish Statistical Association and also a member of Cancer Trials Ireland.\nResearch Interests\n\nSurvival Analysis\nBayesian Statistics\nStatistical Modelling\nMachine Learning\nClinical Decision Making\nTranslational Statistics\nCancer Research",
+    "text": "Professor Lawler is an internationally renowned scientist with over 30 years experience in cancer research, who is passionate about translating his research for the benefit of patients and society.\nHe has received numerous awards including the prestigious 2018 European Health Award and he is frequently invited to speak at top-tier international conferences.\nHe was architect of the European Cancer Patient’s Bill of Rights, which he launched with patients and health professionals in the European Parliament on World Cancer Day 2014. The Bill of Rights, translated into 17 European languages and adopted in 25 European countries, is a beacon of hope for cancer patients Europe-wide, leading to development of the 70:35 Vision - 70% average survival for cancer patients by 2035. This Vision has been adopted by the European CanCer Organisation, the largest multidisciplinary cancer organisation in Europe, and is influencing health policy in many European countries.\nHis research in colorectal cancer (CRC) has increased our understanding of this common disease. His leadership of Bowel Cancer UK’s Critical Research Gaps in Colorectal Cancer Initiativewill influence CRC research activity/policy over the next decade.\nProfessor Lawler is Associate Director of Health Data Research Wales-Northern Ireland and Scientific Director of DATA-CAN, the UK Health Data Research Hub for Cancer. His leadership in heath data research, with a particular emphasis on cancer has been world leading with key publications in the premier scientific and medical journals.\nHis recent work on Coronavirus and cancer, highlighting how the current COVID-19 pandemic may lead to a future cancer epidemic, has received international recognition, with over 300 media stories and publications in key international scientific journals\nProfessor Lawler is also a passionate advocate for the development of outreach activities, fostering increased public understanding of science and medicine.",
     "crumbs": [
       "Home",
       "People",
       "People",
-      "Dr Shirin Moghaddam"
+      "Prof Mark Lawler"
     ]
   },
   {
-    "objectID": "People/ShirinMoghaddam/index.html#dr-shirin-moghaddam",
-    "href": "People/ShirinMoghaddam/index.html#dr-shirin-moghaddam",
-    "title": "Dr Shirin Moghaddam",
+    "objectID": "People/MarkLawlor/index.html#prof-mark-lawler",
+    "href": "People/MarkLawlor/index.html#prof-mark-lawler",
+    "title": "Prof Mark Lawler",
     "section": "",
-    "text": "Dr Shirin Moghaddam is a Lecturer in Statistics & Data Science in the Department of Mathematics and Statistics in the University of Limerick. Shirin holds a BSc in Statistics and an MSc in Mathematical Statistics from the University of Tehran. She completed her PhD in Statistics at the University of Galway (NUIG) on developing Bayesian imputation approaches in survival analysis. Following her PhD, she worked as a postdoctoral research fellow in the Conway Institute at University College Dublin on an interdisciplinary project on developing prediction models for prostate cancer progression. She was a lecturer at University College Cork before taking up her current position at the University of Limerick.\nHer primary research interests are Survival analysis, Bayesian modelling and Machine learning approaches, in particular, their applications in cancer research. She collaborates nationally and internationally on modelling time-to-event data and developing prediction models in medical research. She is the chair of the Young Statisticians’ Section of the Irish Statistical Association and also a member of Cancer Trials Ireland.\nResearch Interests\n\nSurvival Analysis\nBayesian Statistics\nStatistical Modelling\nMachine Learning\nClinical Decision Making\nTranslational Statistics\nCancer Research",
+    "text": "Professor Lawler is an internationally renowned scientist with over 30 years experience in cancer research, who is passionate about translating his research for the benefit of patients and society.\nHe has received numerous awards including the prestigious 2018 European Health Award and he is frequently invited to speak at top-tier international conferences.\nHe was architect of the European Cancer Patient’s Bill of Rights, which he launched with patients and health professionals in the European Parliament on World Cancer Day 2014. The Bill of Rights, translated into 17 European languages and adopted in 25 European countries, is a beacon of hope for cancer patients Europe-wide, leading to development of the 70:35 Vision - 70% average survival for cancer patients by 2035. This Vision has been adopted by the European CanCer Organisation, the largest multidisciplinary cancer organisation in Europe, and is influencing health policy in many European countries.\nHis research in colorectal cancer (CRC) has increased our understanding of this common disease. His leadership of Bowel Cancer UK’s Critical Research Gaps in Colorectal Cancer Initiativewill influence CRC research activity/policy over the next decade.\nProfessor Lawler is Associate Director of Health Data Research Wales-Northern Ireland and Scientific Director of DATA-CAN, the UK Health Data Research Hub for Cancer. His leadership in heath data research, with a particular emphasis on cancer has been world leading with key publications in the premier scientific and medical journals.\nHis recent work on Coronavirus and cancer, highlighting how the current COVID-19 pandemic may lead to a future cancer epidemic, has received international recognition, with over 300 media stories and publications in key international scientific journals\nProfessor Lawler is also a passionate advocate for the development of outreach activities, fostering increased public understanding of science and medicine.",
     "crumbs": [
       "Home",
       "People",
       "People",
-      "Dr Shirin Moghaddam"
-    ]
-  },
-  {
-    "objectID": "People/AedinCulhane/index.html",
-    "href": "People/AedinCulhane/index.html",
-    "title": "Prof Aedin Culhane",
-    "section": "",
-    "text": "Aedín Culhane is a Professor of Biomedical Sciences (Cancer Genomics) in the UL School of Medicine. She is a computational oncologist with expertise in multi-omics data integration, statistical genomics, clinical bioinformatics and genomics in oncology. She has over 20 years’ experience in cancer genomics, of which over 15 years were in the Dana-Farber Cancer Institute and Harvard TH Chan School of Public Health in Boston, USA. Her recent research focuses on algorithm development and integrative data of single cell molecular data in cancer to identify molecules that regulate and can be targeted during tumour development, progression, drug response and resistance. She is a member of the Human Cell Atlas (https://www.humancellatlas.org ) project. She is a leader in the Bioconductor (www.bioconductor.org) community, a global open source, open development software in R for genomics and an advocate for open source science.",
-    "crumbs": [
-      "Home",
-      "People",
-      "People",
-      "Prof Aedin Culhane"
-    ]
-  },
-  {
-    "objectID": "People/AedinCulhane/index.html#prof-aedin-culhane",
-    "href": "People/AedinCulhane/index.html#prof-aedin-culhane",
-    "title": "Prof Aedin Culhane",
-    "section": "",
-    "text": "Aedín Culhane is a Professor of Biomedical Sciences (Cancer Genomics) in the UL School of Medicine. She is a computational oncologist with expertise in multi-omics data integration, statistical genomics, clinical bioinformatics and genomics in oncology. She has over 20 years’ experience in cancer genomics, of which over 15 years were in the Dana-Farber Cancer Institute and Harvard TH Chan School of Public Health in Boston, USA. Her recent research focuses on algorithm development and integrative data of single cell molecular data in cancer to identify molecules that regulate and can be targeted during tumour development, progression, drug response and resistance. She is a member of the Human Cell Atlas (https://www.humancellatlas.org ) project. She is a leader in the Bioconductor (www.bioconductor.org) community, a global open source, open development software in R for genomics and an advocate for open source science.",
-    "crumbs": [
-      "Home",
-      "People",
-      "People",
-      "Prof Aedin Culhane"
+      "Prof Mark Lawler"
     ]
   }
 ]

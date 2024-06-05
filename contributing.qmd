@@ -11,29 +11,27 @@ about:
         href: mailto:ehealth@ul.ie
 ---
 
-# Contributing to the eHealthHub for Cancer There are many ways to contribute to cancer research and to the eHealth-Hub for Cancer.
+## Contributing to the eHealthHub for Cancer
 
-## Clinicians and researchers
+There are many ways to contribute to cancer research and to the eHealth-Hub for Cancer.
+
+### Clinicians and researchers
 
 If you would like your data included in our studies, please contact us.
 
-## People with cancer
+### People with cancer
 
--   **Patient & Public Involvement**
+Patient and public involvement ([PPI](https://www.cancer.ie/cancer-research/about-our-cancer-research/public-and-patient-involvement)) in our research is welcome. People with cancer can interact with research, through participation, engagement, and involvement.
 
-    [PPI (link to the Irish Cancer Society](https://www.cancer.ie/cancer-research/about-our-cancer-research/public-and-patient-involvement))
+-   **Participation:** People with cancer may enroll or partcipate in a clinical research study (clinical trial). We hope our study will create data resources, that facilitate and support more clinical trials on the island of Ireland.
 
-    People with cancer can interact with research, through participation, engagement, and involvement.
+-   **Engagement:** Patients can help communicate with other patients and the public. You could work in communication and sharing of research information, for example, at science festivals, public talks, television programmes, or radio.
 
-    -   **Participation:** A person with cancer may be enroll in a research study (clinical trial).
+-   **Involvement:** People with cancer can be involved at every stage of the research process, from conceptualisation to dissemination to ensure the perspectives of people with cancer are fully considered during the entire research cycle.
 
-    -   **Engagement:** Patients can help communicate with other patients and the public. You could work in communication and sharing of research information, for example, at science festivals, public talks, television programmes, or radio.
+-   **What is a Clinical Trial?**
 
-    -   **Involvement:** People with cancer can be involved at every stage of the research process, from conceptualisation to dissemination to ensure the perspectives of people with cancer are fully considered during the entire research cycle.
-
--   **Clinical Trials Ireland**
-
-    Cancer trials test new and more effective ways to prevent, diagnose, and treat cancer. Trials can test new drugs or combinations of drugs that are already used in the treatment of other diseases. Trials can also involve new ways of treating or diagnosing cancer. Unlike non-cancer clinical trials, placebo are rarely used in cancer. Find out more about [clinical trials in Ireland](https://www.cancertrials.ie) or [search for a clinical trial](https://www.cancertrials.ie/cti-trials/) in ireland, or in the [EU](https://euclinicaltrials.eu/search-clinical-trials-reports/), or [USA](https://clinicaltrials.gov).\
+    Cancer clinical trials test new or more effective ways to prevent, diagnose, and treat cancer. Trials can test new drugs or combinations of drugs that are already used in the treatment of other diseases. Trials can also involve new ways of treating or diagnosing cancer. Unlike non-cancer clinical trials, placebo are rarely used in cancer. Find out more about [clinical trials in Ireland](https://www.cancertrials.ie) or [search for a clinical trial](https://www.cancertrials.ie/cti-trials/) in ireland, or in the [EU](https://euclinicaltrials.eu/search-clinical-trials-reports/), or [USA](https://clinicaltrials.gov).
 
 ## Contact us
 
