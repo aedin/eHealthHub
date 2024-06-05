@@ -57,6 +57,6 @@ Empowering cross-border real-world health research has the potential to
 
 -   it offers significant opportunities for economic development.
 
-## eHealth 
+## eHealth
 
 eHealth is a key pillar in health care reform, prioritized in Programme for Government, Sláintecare, and the Project Ireland 2040 National Development Plan and the eHealth strategy for Ireland. The Organisation of European Cancer Institutes (OECI) have highlighted a need for systems to digitize and harmonize patient data. eHealth initiatives are integral to European Commission EU4Health (2021-2027), Europe's Beating Cancer Plan and Horizon Europe Conquering Cancer: Mission Possible (2021-27). This proposal also addresses United Nations SDGs 3 (Health and well being).

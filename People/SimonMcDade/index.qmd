@@ -1,0 +1,24 @@
+---
+title: Prof Simon McDade
+about:
+  template: solana
+  image-width: 6em
+  image-shape: round
+  links:
+    - icon: house-door
+      text: Homepage
+      href: https://pure.qub.ac.uk/en/person/SimonMcDade
+    - icon: envelope
+      text: email
+      
+description: 
+  Reader, Patrick G Johnston Centre for Cancer Research, Queens University, Belfast
+image: ../../contents/photos/people/simonmcdade.png
+card_style: "summary_large_image"
+categories:
+  - Project Supervisor
+  - Belfast
+  - QUB
+---
+
+## Dr Simon Mc Dade

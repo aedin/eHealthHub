@@ -1,28 +1,5 @@
 [
   {
-    "listing": "/people.html",
-    "items": [
-      "/People/KatieCrowley/index.html",
-      "/People/AedinCulhane/index.html",
-      "/People/AedinCulhane/BillWatson.html",
-      "/People/IanOverton/index.html",
-      "/People/MarkLawlor/index.html",
-      "/People/RuthClifford/index.html"
-    ]
-  },
-  {
-    "listing": "/publications.html",
-    "items": []
-  },
-  {
-    "listing": "/events.html",
-    "items": []
-  },
-  {
-    "listing": "/talks.html",
-    "items": []
-  },
-  {
     "listing": "/news.html",
     "items": [
       "/News/23_10_23_GFA_Belfast.html",
@@ -37,6 +14,28 @@
       "/News/22_09_09_BCNI_talk.html",
       "/News/22_05_19_BrainStorm.html",
       "/News/22-04-04_LimerickPost.html"
+    ]
+  },
+  {
+    "listing": "/talks.html",
+    "items": []
+  },
+  {
+    "listing": "/publications.html",
+    "items": []
+  },
+  {
+    "listing": "/people.html",
+    "items": [
+      "/People/ShirinMoghaddam/index.html",
+      "/People/KatieCrowley/index.html",
+      "/People/AedinCulhane/index.html",
+      "/People/WilliamWatson/BillWatson.html",
+      "/People/IanOverton/index.html",
+      "/People/MarkLawlor/index.html",
+      "/People/NinaOrfali /index.html",
+      "/People/RuthClifford/index.html",
+      "/People/SimonMcDade/index.html"
     ]
   }
 ]

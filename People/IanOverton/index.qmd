@@ -27,7 +27,3 @@ categories:
 ## Dr Ian Overton
 
 [QUB link](https://pure.qub.ac.uk/en/persons/ian-overton)
-
-Funded by
-
-[![HEA North South Program](contents/logo/NSRP%20Logo%20(Final).png){#HEA_logo width="300"}](hea.ie)

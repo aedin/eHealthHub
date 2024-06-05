@@ -1,0 +1,25 @@
+---
+title: Prof Nina Orfali
+about:
+  template: solana
+  image-width: 6em
+  image-shape: round
+  links:
+    - icon: house-door
+      text: Homepage
+      href: https://www.linkedin.com/in/nina-orfali-mb-mrcpi-frcpath-phd-9a782668/
+    - icon: envelope
+      text: email
+      
+description: Consultant Haematologist, St. James's Hospital Dublin
+
+
+image: ../../contents/photos/people/NinaOrfali.jpeg
+card_style: "summary_large_image"
+categories:
+  - Project Supervisor
+  - Dublin
+  - St James
+---
+
+## Consultant Haematologist, St. James's Hospital Dublin

@@ -1,0 +1,44 @@
+---
+title: Dr Shirin Moghaddam
+about:
+  template: solana
+  image-width: 6em
+  image-shape: round
+  links:
+    - icon: house-door
+      text: Homepage
+      href: https://www.ul.ie/research/dr-shirin-moghaddam
+    - icon: envelope
+      text: email
+      
+description: Mathematics and Statistics, Faculty Of Science & Engineering, University of Limerick
+
+image: ../../contents/photos/people/ShirinMoghaddam.jpeg
+card_style: "summary_large_image"
+categories:
+  - Project Supervisor
+  - Limerick
+  - UL
+---
+
+## Dr Shirin Moghaddam
+
+Dr Shirin Moghaddam is a Lecturer in Statistics & Data Science in the Department of Mathematics and Statistics in the University of Limerick. Shirin holds a BSc in Statistics and an MSc in Mathematical Statistics from the University of Tehran. She completed her PhD in Statistics at the University of Galway (NUIG) on developing Bayesian imputation approaches in survival analysis. Following her PhD, she worked as a postdoctoral research fellow in the Conway Institute at University College Dublin on an interdisciplinary project on developing prediction models for prostate cancer progression. She was a lecturer at University College Cork before taking up her current position at the University of Limerick.
+
+Her primary research interests are Survival analysis, Bayesian modelling and Machine learning approaches, in particular, their applications in cancer research. She collaborates nationally and internationally on modelling time-to-event data and developing prediction models in medical research. She is the chair of the Young Statisticians' Section of the Irish Statistical Association and also a member of Cancer Trials Ireland.
+
+Research Interests
+
+-   Survival Analysis
+
+-   Bayesian Statistics
+
+-   Statistical Modelling
+
+-   Machine Learning
+
+-   Clinical Decision Making
+
+-   Translational Statistics
+
+-   Cancer Research
